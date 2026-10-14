@@ -1,56 +1,31 @@
 
 [
 
-  
+
   {
-    "title": "Formación academica + dev experience 2025 - . . .",
-    "text": "info/index.html",
-    "img": "/img/compañeros-ico instituto.jpg",
-    "url": "info/index.html"
-  },
-  {
-    "title": "...",
-    "text": "",
+    "title": "Desarrollador Web Jr. | JavaScript · HTML · CSS · Git",
+    "text": "Tlaxcala, México · Disponibilidad para oportunidades remotas",
     "img": "",
     "url": ""
   },
-  
+
   {
-    "title": "perfil proffesional - Portafolio - CV  - Projects",
-    "text": "educacion + realizado + Futuro   https://oscarcruzdiaz.vercel.app/",
-    "img":"img/os-profile-pic.jpg",
-    "url": "https://oscarcruzdiaz.vercel.app/"
-  },
-  {
-    "title": "...",
-    "text": "...",
+    "title": ".Desarrollador web ...Vercel y GitHub Pages...",
+    "text": "Frontend,Control de versiones,ica con proyectos que exploran Supabase, PostgreSQL, autenticación, operaciones CRUD y políticas de acceso. Continúo consolidando estos conocimientos.-Resolución de problema,Backend y datos,,,.",
     "img": "...",
-    "url": "..."
+    "url": "https://github.com/ozclef?tab=repositories"
   },
   {
     "title": "s",
-    "text": ".",
+    "text": "",
     "img": "img/quantum.png",
-    "url": "#/post/quantum"
-  },
-  {
-    "title": "websocket ICE - efimero - p2p - chat - server temporal ",
-    "text": "usando Funciones basicas html, js, css,  sin Auth_user |  añado ANON_API para vincular SQL comunicación cno server + base de datos online, Sistema chat entre navegadores, sólo vinculando id temporales",
-    "img": "https://github.com/user-attachments/assets/6eb51235-cedd-4273-bac6-692ef12f8589",
-    "url": "https://ozclef.github.io/chat-p2p-efimero/"
-  },
- 
-  {
-    "title": "Entorno de Desarrollo + Hardware Utilizado",
-    "text": "2025 abril - octubre: XBOX ONE S | | Tiendas3E posteriormente Laptop HP con este hardware ultra LIMITADO - CPU Celeron 6ta, RAM 4GB , HDD, Tiny10-  2016 ",
-    "img": "data/Screenshot (189).png",
-    "url": "/"
+    "url": "https://github.com/ozclef?tab=repositories"
   },  
   {
     "title": "Formación academica 2020",
     "text": "Formación 2020 Tlax. y reciente Docencia de Informatica Avanzada en el Instituto de Informatica Avanzada, impartiendo cursos de programación, desarrollo web y bases de datos a estudiantes de nivel medio superior.",
     "img": "/img/compañeros-ico instituto.jpg",
-    "url": "#/post/pseudo"
+    "url": "https://github.com/ozclef?tab=repositories"
   },
   {
     "title": "Mi método STEM para niños -Docencia de INFORMATICA AVANZAD",
@@ -58,44 +33,5 @@
     "img": "/img/diploma-os-docencia.png",
     "url": "https://ozclef.github.io/class-for-kids/"
   },
-  
-  {
-    "title": "Sistema online para Empresa tienda, Inventario, usuarios,",
-    "text": "sistema administración de sucursales empresariales , pos, control de inventario + a petición de alumnado de universidad politecnica Tlax, caducados automatizados, endpoints sql, backend + CRUDS + Panel Admin .",
-    "img": "/data/tiendas3e-portal.vercel.app.jpeg",
-    "url": "https://tiendas3e-portal.vercel.app"
-  },
-  {
-    "title": "wuana wuary - artist ",
-    "text": "Años de experiencia, ingenio, mudica, purificación de energía, sabiduría sólamente puede explicarla el en persona, esta website, no puede mostrar la calidad.",
-    "img": "https://wuana-wuary.vercel.app/img/marketing.png",
-    "url": "https://wuana-wuary.vercel.app/"
-  },
-  {
-    "title": "MARKETPLACE - website online  stock de productos Shopping pedido y envío a domicilio",
-    "text": "e-commerce, catálogo, UI, despliegue.  | Market- Tienda online plataforma.  |   ",
-    "img": "/data/huachu-pets.vercel.app.jpeg",
-    "url": "https://huachu-pets.vercel.app"
-  },
-  {
-    "title": "🍔 Hamburguesas gourmet La Fauna - ",
-    "text": "→ demuestra otro caso de negocio (menú, pedidos, branding, etc., según lo que tenga).",
-    "img": "https://scontent.fpbc3-1.fna.fbcdn.net/v/t39.30808-6/480752953_1130236272231466_5784162692542545902_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=106&ccb=1-7&_nc_sid=e21142&_nc_ohc=RnQJBEqd_hwQ7kNvwEwR4Pg&_nc_oc=AdrSr8q49bGOiCtBcBPtkasruk0hI4uo-rQlbARjuKwwvsbMjWfZsJnFTR33oe1Kl4Y&_nc_zt=23&_nc_ht=scontent.fpbc3-1.fna&edm=AN6CN6oEAAAA&_nc_gid=Ro3U192wjWJ0axQ7rh3BFw&oh=00_AQDSiHNFAAZ7oAG9HeXSAKZdv5b6e4MfqnBnOs1IQcVgDg&oe=6A4CD0C1",
-    "url": "https://hamburguesas-lafauna.vercel.app"
-  },
-  {
-    "title": "💅 Unicorn Nails - Salon Studio Estetica",
-    "text": "→ demuestra que puedes trabajar con un cliente de un giro distinto (servicios de belleza).",
-    "img": "https://unicorn-nails.vercel.app/assets/unicorn-nails-poster.png",
-    "url": "https://unicorn-nails.vercel.app"
-  },
-  {
-    "title": "s",
-    "text": "",
-    "img": "img/quantum.png",
-    "url": "#/post/"
-  }
 
-  
-]
 ]
