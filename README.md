@@ -1,10 +1,3 @@
-# cv-portafolio
-
-
-cv + portafolio profesional + websie deployement connect  projects for js , json, onlinda hyml framework id mine
-
-----
-
 # OSCAR CRUZ DÍAZ
 **Desarrollador Web Jr. | JavaScript · HTML · CSS · Git**
 
@@ -21,6 +14,15 @@ Desarrollador web autodidacta con experiencia práctica en la creación de proye
 He desarrollado proyectos personales y funcionales para explorar necesidades como la gestión de inventarios, la administración de información, la navegación entre vistas, la persistencia de datos y la comunicación entre clientes. Mi trabajo incluye la organización de código, el uso de repositorios Git y la resolución de problemas durante el desarrollo.
 
 Cuento también con experiencia docente en informática, programación y actividades tecnológicas. Busco integrarme a un equipo donde pueda aportar mis conocimientos actuales, participar en proyectos reales y continuar fortaleciendo mis habilidades en depuración, consumo de APIs, SQL y desarrollo backend.
+
+----
+
+
+##  CV
+
+cv + portafolio profesional + websie deployement connect  projects for js , json, onlinda hyml framework id mine
+
+----
 
 ## COMPETENCIAS TÉCNICAS
 
