@@ -97,3 +97,102 @@ Actualmente enfocado en profundizar en depuración sistemática, integración de
 ## OBJETIVO
 
 Integrarme a un equipo de desarrollo en un puesto junior o auxiliar donde pueda contribuir con mis fundamentos de desarrollo web, aprender mediante trabajo colaborativo y asumir responsabilidades de forma progresiva, con atención a la calidad del código, la documentación y la resolución de problemas.
+
+
+
+
+
+JAJAJAJAJA 😭 LinkedIn poniéndote obstáculos hasta para buscar trabajo. Vamos a configurarlo estratégicamente.
+
+Y sí: quiero posicionarte para oportunidades internacionales sin venderte como senior, y para Tlaxcala/Puebla buscar puestos donde realmente puedas entrar, demostrar lo que sabes y crecer.
+
+No vamos a inventar experiencia. Vamos a presentar mejor la que sí tienes.
+
+## 1. Cargos: seleccionaría estos 5
+
+Mi selección recomendada
+
+| Cargo para buscar           | Qué oportunidades cubre                               |
+| --------------------------- | ----------------------------------------------------- |
+| Junior Web Developer        | Desarrollo web general                                |
+| Junior Frontend Developer   | HTML, CSS, JavaScript, SPA                            |
+| Web Developer               | Sitios y aplicaciones web                             |
+| Junior Full Stack Developer | Puestos iniciales con frontend y backend en formación |
+| IT Support Specialist       | Soporte técnico, sistemas y resolución de problemas   |
+
+¿Por qué estos?
+
+Porque tienes proyectos web desplegados, CRUD, Git/GitHub, experiencia con inventarios reales, bases de datos en formación y experiencia enseñando tecnología. También tienes formación en mantenimiento de equipos.
+
+No pondría Senior, Software Architect, DevOps Engineer ni Database Administrator. Son objetivos que puedes alcanzar, pero no representan todavía tu nivel demostrado.
+
+## 2. Ubicaciones de empleo
+
+Yo configuraría una estrategia de dos mercados:
+
+Mercado internacional
+
+Prioridad
+
+- Remote — United States (si LinkedIn permite seleccionarlo).
+- Remote — Mexico.
+- Oportunidades internacionales que acepten contratación desde México.
+
+Mercado local
+
+- Tlaxcala de Xicohténcatl, Tlaxcala.
+- Puebla, Puebla.
+- Ciudad de México.
+
+¿Te interesa teletrabajar?
+
+Sí
+
+Actívalo. Es fundamental para tu búsqueda.
+
+Ojo: una vacante que dice Remote — United States no necesariamente acepta candidatos residentes en México. Busca también términos como `Worldwide`, `LATAM`, `Mexico Remote`, `International Contractor` y `Remote - Latin America`.
+
+## 3. Cómo posicionarte en cada mercado
+
+No necesitas dos identidades ni dos historiales.
+
+Para Estados Unidos:
+
+- Junior Web Developer
+- Frontend Developer
+- JavaScript Developer
+- Git / GitHub
+- Responsive Web Applications
+- REST APIs (en formación)
+- SQL / Python (en formación)
+- Independent Projects
+
+Para México (Tlaxcala/Puebla):
+
+- Desarrollador web junior
+- Programador web
+- Auxiliar de sistemas
+- Soporte técnico
+- Desarrollador de aplicaciones web
+- Implementación de sistemas e inventarios
+
+La diferencia es el lenguaje de búsqueda y el tipo de vacante, no tus capacidades reales.
+
+## 4. Una cosa que quiero evitar
+
+No te limites a buscar empleos que digan «desarrollador de páginas web».
+
+Tu experiencia con el inventario real, el sistema local, GitHub, los despliegues y la enseñanza tecnológica también puede encajar en puestos de implementación, soporte de aplicaciones y sistemas.
+
+Mi objetivo sería que LinkedIn no te encierre en diseñador web ni te descarte por no ser todavía full-stack.
+
+https://www.linkedin.com/in/oscar-cruz-diaz/
+
+
+<img width="1131" height="596" alt="Captura de pantalla_31-10-2026_8369_www linkedin com" src="https://github.com/user-attachments/assets/24fd8346-eeb0-4491-938c-e9c0626bddc5" />
+
+
+
+
+
+<img width="1002" height="337" alt="Captura de pantalla_31-10-2026_5164_tramitesprofesiones sep gob mx" src="https://github.com/user-attachments/assets/d59105fd-3f09-438e-bf9f-7be61c4dedde" />
