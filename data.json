@@ -1,0 +1,909 @@
+{
+  "schema_version": "1.0.0",
+  "record_type": "professional_master_profile",
+  "last_reviewed": "2026-10-31",
+  "language": "es-MX",
+  "purpose": "Expediente maestro para alimentar CV, portafolio, LinkedIn, perfiles de empleo, propuestas freelance y documentación de proyectos. No todo este contenido debe publicarse ni incluirse en cada versión del CV.",
+  "identity": {
+    "full_name": "Oscar Cruz Díaz",
+    "preferred_professional_name": "Oscar Cruz Díaz",
+    "developer_alias": "ozclef",
+    "informal_alias": "Os Clef",
+    "pronouns": "he/him",
+    "location": {
+      "city": "Tlaxcala de Xicohténcatl",
+      "state": "Tlaxcala",
+      "country": "México",
+      "country_code": "MX",
+      "open_to_relocation": null,
+      "location_note": "Confirmar disponibilidad de reubicación antes de publicarla."
+    },
+    "professional_identity_note": "Usar Oscar Cruz Díaz en CV, solicitudes y documentos profesionales. ozclef funciona como alias técnico y nombre de usuario en GitHub; no sustituye el nombre legal."
+  },
+  "contact": {
+    "email": {
+      "value": "oscar.cdzz.14@outlook.com",
+      "visibility": "public_if_desired",
+      "verification": "provided_in_user_shared_cv_html"
+    },
+    "github": {
+      "username": "ozclef",
+      "profile_url": "https://github.com/ozclef",
+      "visibility": "public"
+    },
+    "portfolio": {
+      "url": "https://oscarcruzdiaz.vercel.app/",
+      "cv_route": "https://oscarcruzdiaz.vercel.app/#/cv",
+      "feed_route": "https://oscarcruzdiaz.vercel.app/#/feed",
+      "visibility": "public"
+    },
+    "linkedin": {
+      "url": "https://www.linkedin.com/in/oscar-cruz-diaz-04a878415/",
+      "verification": "profile_url_from_prior_user_context",
+      "visibility": "public_if_active"
+    },
+    "youtube": {
+      "channel_name": "Os Clef",
+      "url": null,
+      "visibility": "public",
+      "focus": [
+        "piano covers",
+        "music projects"
+      ]
+    },
+    "phone": {
+      "value": null,
+      "note": "No agregar un teléfono hasta contar con un número activo y verificable."
+    }
+  },
+  "professional_headline": {
+    "primary_es": "Desarrollador web junior | JavaScript, HTML, CSS y Git/GitHub | Aplicaciones web y sistemas ligeros",
+    "primary_en": "Junior Web Developer | JavaScript, HTML, CSS & Git/GitHub | Lightweight Web Applications",
+    "alternatives": [
+      "Desarrollador web junior enfocado en aplicaciones funcionales, interfaces dinámicas y soluciones ligeras.",
+      "Junior Frontend Developer with hands-on projects in JavaScript, responsive interfaces and Git-based workflows.",
+      "Auxiliar de sistemas / soporte de aplicaciones con formación técnica y experiencia práctica en proyectos web."
+    ],
+    "avoid_claims": [
+      "Senior Developer",
+      "Software Architect",
+      "DevOps Engineer",
+      "Database Administrator",
+      "Experienced Full Stack Engineer"
+    ]
+  },
+  "professional_summary": {
+    "es": "Desarrollador web autodidacta con formación técnica continua y experiencia práctica construyendo sitios y aplicaciones con HTML, CSS y JavaScript. Ha desarrollado interfaces dinámicas, prototipos CRUD, herramientas locales para gestión de inventario y proyectos educativos; utiliza Git y GitHub para documentar y compartir trabajo, y ha publicado proyectos en plataformas de despliegue web. También cuenta con experiencia docente en informática y desarrollo web. Actualmente amplía sus conocimientos en Python, SQL, PostgreSQL, APIs, autenticación, automatización y fundamentos de infraestructura.",
+    "en": "Self-taught junior web developer with ongoing technical training and hands-on experience building websites and lightweight applications with HTML, CSS and JavaScript. Has developed dynamic interfaces, CRUD prototypes, local inventory-management tools and educational projects; uses Git and GitHub to document and share work, and has deployed projects to web hosting platforms. Also has teaching experience in computing and web development. Currently developing skills in Python, SQL, PostgreSQL, APIs, authentication, automation and software infrastructure.",
+    "positioning": "Perfil junior / entry-level. Priorizar proyectos demostrables, aprendizaje continuo, documentación, implementación práctica y honestidad sobre el alcance técnico."
+  },
+  "job_targets": {
+    "role_level": [
+      "Junior",
+      "Entry-level",
+      "Auxiliar",
+      "Trainee",
+      "Prácticas profesionales si son remuneradas y aplicables"
+    ],
+    "preferred_roles": [
+      "Junior Web Developer",
+      "Junior Frontend Developer",
+      "Web Developer",
+      "JavaScript Developer (Junior)",
+      "Auxiliar de sistemas",
+      "Soporte técnico / IT Support",
+      "Soporte de aplicaciones",
+      "Implementador de sistemas junior"
+    ],
+    "selective_roles": [
+      {
+        "role": "Junior Full Stack Developer",
+        "condition": "Aplicar cuando la vacante acepte perfiles junior y permita aprender backend; no presentarse como full-stack con experiencia profesional consolidada."
+      },
+      {
+        "role": "QA / Software Tester Junior",
+        "condition": "Considerar puestos de entrada que incluyan pruebas funcionales, validación de interfaces y documentación."
+      }
+    ],
+    "locations": [
+      "Tlaxcala, México",
+      "Puebla, Puebla, México",
+      "Ciudad de México, México",
+      "Remoto dentro de México",
+      "Remoto LATAM",
+      "Estados Unidos remoto solo si la empresa acepta contratación desde México"
+    ],
+    "work_modes": [
+      "Remoto",
+      "Híbrido",
+      "Presencial en Tlaxcala/Puebla si las condiciones son adecuadas"
+    ],
+    "employment_types": [
+      "Tiempo completo",
+      "Medio tiempo",
+      "Contrato",
+      "Freelance por alcance definido"
+    ],
+    "market_notes": {
+      "international": "Buscar vacantes que indiquen Mexico, LATAM, Worldwide o contratación internacional. 'Remote US' no implica automáticamente que acepten residentes de México.",
+      "local": "Buscar desarrollo web, auxiliar de sistemas, soporte técnico, soporte de aplicaciones, implementación y mantenimiento de sistemas."
+    }
+  },
+  "work_experience": [
+    {
+      "id": "ico_teaching_2025",
+      "organization": "Instituto de Compingles de Oriente (ICO)",
+      "role_es": "Docente de informática y tecnología",
+      "role_en": "Computing and Technology Instructor",
+      "employment_type": "Docencia",
+      "start_date": "2025-06",
+      "end_date": "2025-09",
+      "date_precision": "month",
+      "status": "completed",
+      "summary": "Impartición de contenidos de informática, programación, desarrollo web y bases de datos a grupos de distintas edades.",
+      "audiences": [
+        "Niños de 10 a 12 años",
+        "Jóvenes",
+        "Adultos"
+      ],
+      "topics_and_tools": [
+        "Fundamentos de informática",
+        "Desarrollo web",
+        "Programación",
+        "Bases de datos",
+        "Arquitectura de software: introducción",
+        "Arduino",
+        "Tinkercad",
+        "Scratch",
+        "DFD",
+        "CMD / línea de comandos",
+        "Herramientas de inteligencia artificial aplicadas al aprendizaje"
+      ],
+      "actions": [
+        "Preparar y explicar contenidos técnicos a estudiantes con distintos niveles.",
+        "Acompañar ejercicios prácticos de programación y tecnología.",
+        "Introducir herramientas digitales y conceptos de desarrollo.",
+        "Adaptar explicaciones y actividades a diferentes edades."
+      ],
+      "evidence": {
+        "repository": "https://github.com/ozclef/ico-formacion-academica",
+        "note": "Confirmar el nombre definitivo del repositorio y añadir evidencias públicas censuradas."
+      },
+      "claims_limit": "No afirmar que fue docencia universitaria ni atribuir títulos académicos que no correspondan."
+    },
+    {
+      "id": "freelance_web_independent",
+      "organization": "Trabajo independiente / proyectos propios y por encargo",
+      "role_es": "Desarrollador web independiente",
+      "role_en": "Independent Web Developer",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "dates_to_confirm",
+      "status": "ongoing_as_independent_activity",
+      "summary": "Desarrollo y publicación de sitios web, interfaces y prototipos funcionales; documentación de proyectos y exploración de soluciones para necesidades educativas y comerciales.",
+      "actions": [
+        "Diseñar y construir páginas web con HTML, CSS y JavaScript.",
+        "Implementar interfaces dinámicas y componentes reutilizables.",
+        "Desarrollar prototipos CRUD y herramientas locales.",
+        "Documentar proyectos mediante README y repositorios GitHub.",
+        "Publicar sitios mediante plataformas de hosting y despliegue.",
+        "Explorar integraciones de datos, APIs y servicios externos."
+      ],
+      "platforms_used": [
+        "GitHub",
+        "Vercel",
+        "Netlify",
+        "Cloudflare Pages",
+        "Render"
+      ],
+      "claims_limit": "Separar proyectos personales, demostraciones, trabajos por encargo y colaboraciones. No presentar todo el portafolio como empleo formal remunerado."
+    },
+    {
+      "id": "real_store_inventory",
+      "organization": "Comercio minorista real (nombre no publicado)",
+      "role_es": "Desarrollo de herramienta local para inventario y registro",
+      "role_en": "Local Inventory Tool Development",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "date_to_confirm",
+      "status": "completed_single_inventory_run",
+      "summary": "Desarrollo y uso de un sistema local para apoyar el inventario real de una tienda. Se utilizó para un inventario concreto; no se implementó persistencia remota ni sincronización continua.",
+      "actions": [
+        "Construir una interfaz funcional para registrar y consultar información del inventario.",
+        "Apoyar el levantamiento y organización de datos de productos.",
+        "Utilizar el sistema durante un inventario real.",
+        "Aplicar lógica de registro y consulta en un entorno local.",
+        "Resolver una necesidad operativa concreta mediante una herramienta web."
+      ],
+      "technical_scope": {
+        "interface": "Web local",
+        "database": "No se integró una base de datos SQL persistente",
+        "api_endpoints": "No se implementaron endpoints de backend",
+        "synchronization": "No implementada",
+        "updates": "No fue un sistema de actualización continua; se utilizó para un inventario específico",
+        "deployment": "No afirmar despliegue productivo en infraestructura empresarial"
+      },
+      "evidence": {
+        "video_recording": "El usuario indicó que conserva una grabación del proceso.",
+        "privacy": "No publicar el nombre de la tienda, datos comerciales, inventario privado ni información de terceros sin autorización."
+      },
+      "claims_limit": "Es una aplicación práctica utilizada en un comercio real, pero no debe describirse como sistema multiusuario, SaaS, ERP ni plataforma con base de datos central."
+    },
+    {
+      "id": "emilio_github_fork_walkthrough",
+      "organization": "Demostración independiente con colaborador (caso anonimizado)",
+      "role_es": "Desarrollador y guía de flujo GitHub",
+      "role_en": "Developer / GitHub Workflow Guide",
+      "date": "2026-10-11",
+      "status": "completed",
+      "summary": "Demostración de un sistema de inventario mediante un escenario ficticio llamado Tiendas3E para evitar identificar el lugar de trabajo real de un colaborador. El colaborador abrió su propia cuenta de GitHub e hizo un fork del repositorio original.",
+      "actions": [
+        "Presentar el funcionamiento del proyecto.",
+        "Explicar la creación de una cuenta de GitHub.",
+        "Guiar al colaborador para realizar un fork oficial del repositorio.",
+        "Compartir el proyecto mediante el flujo nativo de GitHub, sin enviar un archivo ZIP.",
+        "Conservar evidencia audiovisual del proceso."
+      ],
+      "technical_scope": {
+        "distribution_method": "GitHub Fork",
+        "source_repository": "https://github.com/ozclef/caducidades-3e",
+        "zip_transfer": false,
+        "collaborator_account": "Creada por el propio colaborador",
+        "fictional_business_name": "Tiendas3E",
+        "reason_for_alias": "Proteger la identidad del establecimiento real donde trabajaba el colaborador."
+      },
+      "claims_limit": "No describir Tiendas3E como cliente real ni afirmar que el colaborador desplegó o puso en producción el sistema. El hecho demostrable es la demostración y el fork."
+    }
+  ],
+  "education": [
+    {
+      "id": "ico_training",
+      "institution": "Instituto de Compingles de Oriente (ICO)",
+      "program": "Formación técnica en informática / programación",
+      "start_year": 2018,
+      "end_year": 2020,
+      "status": "studies_attended_completion_or_official_level_to_confirm",
+      "description": "Formación y aprendizaje en informática, programación y desarrollo de proyectos.",
+      "credential_note": "No presentar como licenciatura ni como título universitario. Precisar el nombre oficial del programa con los documentos disponibles."
+    },
+    {
+      "id": "dgcft_microcomputers_diploma",
+      "institution": "Instituto de Compingles de Oriente (ICO)",
+      "credential_issuer_or_system": "DGCFT / sistema de validación de diplomas",
+      "credential_name": "Operación de Microcomputadoras",
+      "credential_type": "Diploma de formación para el trabajo",
+      "issue_date": "2022-10-27",
+      "rvoe_or_agreement_reference": "01FT338",
+      "agreement_date": "2000-11-30",
+      "verification_status_reported": "El HTML de consulta compartido por el usuario mostraba el mensaje 'Este Folio es válido'.",
+      "status": "credential_reported_as_validated",
+      "privacy": "No incluir CURP, folio personal, tokens, códigos QR privados ni identificadores sensibles en el JSON público."
+    },
+    {
+      "id": "cecati_82",
+      "institution": "CECATI 82",
+      "program": "Mantenimiento de computadoras",
+      "credential_type": "Diploma",
+      "status": "completed_diploma_reported",
+      "issue_date": null,
+      "details_to_confirm": [
+        "Nombre oficial exacto del curso",
+        "Fecha de emisión",
+        "Duración",
+        "Documento digital o físico"
+      ]
+    },
+    {
+      "id": "prepa_en_linea_sep",
+      "institution": "Prepa en Línea-SEP",
+      "program": "Bachillerato en línea",
+      "attendance_period": "2016-2018 (según historial personal por confirmar)",
+      "status": "not_completed",
+      "completion_claim": false,
+      "description": "Estudios cursados sin concluir el bachillerato. Se conserva historial y documentación personal como respaldo.",
+      "public_cv_guidance": "No incluir como bachillerato concluido. En CV breve puede omitirse o mencionarse como estudios de bachillerato no concluidos si la vacante lo requiere.",
+      "privacy": "Mantener correos, datos de cuenta, identificadores y expedientes personales en repositorio privado."
+    },
+    {
+      "id": "self_directed_learning",
+      "institution": "Formación independiente",
+      "start_year": 2018,
+      "end_year": null,
+      "status": "ongoing",
+      "description": "Aprendizaje autodidacta y práctica continua mediante documentación, cursos, certificados, proyectos y experimentación."
+    }
+  ],
+  "certifications_and_courses": [
+    {
+      "name": "HTML",
+      "issuer": null,
+      "status": "certificate_reported",
+      "year": null,
+      "evidence_to_add": "Documento o enlace verificable"
+    },
+    {
+      "name": "Java",
+      "issuer": null,
+      "status": "certificate_reported",
+      "year": null,
+      "evidence_to_add": "Documento o enlace verificable"
+    },
+    {
+      "name": "SQL",
+      "issuer": null,
+      "status": "certificate_reported",
+      "year": null,
+      "evidence_to_add": "Documento o enlace verificable"
+    },
+    {
+      "name": "MySQL Workbench",
+      "issuer": null,
+      "status": "certificate_or_course_reported",
+      "year": null,
+      "evidence_to_add": "Confirmar si es certificado independiente o contenido de curso"
+    },
+    {
+      "name": "Microsoft Excel",
+      "issuer": "Microsoft",
+      "status": "official_certificate_reported",
+      "year": null,
+      "evidence_to_add": "Nombre oficial, fecha y enlace/documento"
+    },
+    {
+      "name": "Mantenimiento de computadoras",
+      "issuer": "CECATI 82",
+      "status": "diploma_reported",
+      "year": null,
+      "evidence_to_add": "Diploma y datos oficiales"
+    }
+  ],
+  "skills": {
+    "implemented_and_used": [
+      {
+        "name": "HTML5",
+        "level": "practical",
+        "evidence": [
+          "Websites and portfolio projects"
+        ]
+      },
+      {
+        "name": "CSS3",
+        "level": "practical",
+        "evidence": [
+          "Responsive layouts",
+          "Custom visual design",
+          "Print styles with @media print"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "level": "practical_junior",
+        "evidence": [
+          "Dynamic interfaces",
+          "DOM interactions",
+          "Local applications",
+          "CRUD prototypes"
+        ]
+      },
+      {
+        "name": "JSON",
+        "level": "practical",
+        "evidence": [
+          "Structured project data",
+          "Local data files",
+          "Planned CV data architecture"
+        ]
+      },
+      {
+        "name": "Git",
+        "level": "practical",
+        "evidence": [
+          "Repository version control",
+          "Fork workflow"
+        ]
+      },
+      {
+        "name": "GitHub",
+        "level": "practical",
+        "evidence": [
+          "Repositories",
+          "README documentation",
+          "Forks",
+          "Public project sharing"
+        ]
+      },
+      {
+        "name": "LocalStorage",
+        "level": "practical",
+        "evidence": [
+          "Browser-based prototypes"
+        ]
+      },
+      {
+        "name": "CRUD",
+        "level": "practical_prototype",
+        "evidence": [
+          "Inventory and educational/demo applications"
+        ]
+      },
+      {
+        "name": "Web deployment",
+        "level": "practical",
+        "evidence": [
+          "Vercel",
+          "Netlify",
+          "Cloudflare Pages",
+          "Render"
+        ]
+      },
+      {
+        "name": "Markdown",
+        "level": "practical",
+        "evidence": [
+          "GitHub README documentation"
+        ]
+      }
+    ],
+    "used_in_projects_or_explored": [
+      {
+        "name": "Supabase",
+        "level": "experimental_project_use",
+        "evidence": [
+          "Realtime prototype",
+          "Database and authentication exploration"
+        ],
+        "caveat": "Do not claim production administration or advanced Supabase expertise."
+      },
+      {
+        "name": "WebSocket / realtime communication",
+        "level": "prototype_experience",
+        "evidence": [
+          "chat-p2p-efimero project"
+        ],
+        "caveat": "Describe the exact architecture and provider used; do not claim a production P2P network if it relied on a hosted realtime service."
+      },
+      {
+        "name": "SQL / MySQL",
+        "level": "foundational_learning_and_certificate",
+        "evidence": [
+          "SQL and MySQL Workbench certificates reported"
+        ],
+        "caveat": "Distinguish SQL study and prototypes from professional database administration."
+      },
+      {
+        "name": "TypeScript",
+        "level": "basic_or_exploratory",
+        "evidence": [
+          "Mentioned in previous profile README"
+        ],
+        "caveat": "Keep off the primary skills list unless current code demonstrates it."
+      },
+      {
+        "name": "PowerShell",
+        "level": "basic_practical",
+        "evidence": [
+          "Windows command-line workflows"
+        ]
+      },
+      {
+        "name": "Linux",
+        "level": "exploratory",
+        "evidence": [
+          "Live systems and desktop Linux experimentation"
+        ]
+      }
+    ],
+    "currently_learning": [
+      "Python",
+      "PostgreSQL",
+      "SQL data modeling and queries",
+      "REST APIs and backend fundamentals",
+      "Authentication and authorization",
+      "Row Level Security (RLS)",
+      "Environment variables and secret management",
+      "GitHub Actions",
+      "CI/CD pipelines",
+      "Bash and command-line workflows",
+      "Linux administration fundamentals",
+      "Server and deployment fundamentals",
+      "SSH and deployment keys"
+    ],
+    "not_started_or_not_claimed": [
+      {
+        "name": "Docker",
+        "status": "not_started_as_of_2026-10-31"
+      },
+      {
+        "name": "Kubernetes",
+        "status": "not_claimed"
+      },
+      {
+        "name": "Professional cloud infrastructure administration",
+        "status": "not_claimed"
+      },
+      {
+        "name": "Production backend/authentication ownership",
+        "status": "not_claimed"
+      }
+    ],
+    "professional_strengths": [
+      "Problem solving",
+      "Independent learning",
+      "Technical documentation",
+      "Explaining technical concepts",
+      "Adapting explanations to different audiences",
+      "Practical prototyping",
+      "Attention to privacy and responsible handling of data",
+      "Turning operational needs into small software tools"
+    ]
+  },
+  "projects": [
+    {
+      "id": "caducidades_3e",
+      "name": "Tiendas3E / Sistema de inventario y caducidades",
+      "repository": "https://github.com/ozclef/caducidades-3e",
+      "type": "web application / inventory prototype",
+      "status": "project_documented_and_iterated",
+      "description": "Sistema web orientado a inventario y control de caducidades, con categorías, productos y vistas para distintos perfiles.",
+      "reported_scope": {
+        "categories": 7,
+        "products": 447,
+        "roles": [
+          "gerencia",
+          "encargado"
+        ],
+        "areas": [
+          "productos",
+          "inventario",
+          "auditor"
+        ]
+      },
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "JSON"
+      ],
+      "backend_status": "No asumir backend productivo; verificar la versión actual del repositorio antes de describir persistencia, autenticación o base de datos.",
+      "business_context": "Tiendas3E es un nombre ficticio utilizado para proteger la identidad del comercio asociado al caso de demostración.",
+      "evidence": [
+        "Repository README",
+        "Git history",
+        "Fork demonstrated to collaborator"
+      ]
+    },
+    {
+      "id": "real_store_inventory_tool",
+      "name": "Herramienta local para inventario real de comercio",
+      "repository": null,
+      "type": "applied local web tool",
+      "status": "completed_single_inventory_run",
+      "description": "Herramienta funcional utilizada durante un inventario real en una tienda. Fue una ejecución concreta y no un sistema de sincronización continua.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "limitations": [
+        "Sin base de datos SQL persistente",
+        "Sin endpoints backend",
+        "Sin actualización continua"
+      ],
+      "privacy": "No publicar nombre de tienda ni datos comerciales."
+    },
+    {
+      "id": "chat_p2p_efimero",
+      "name": "Chat / mensajería efímera",
+      "repository": "https://github.com/ozclef/chat-p2p-efimero",
+      "type": "realtime web prototype",
+      "status": "experimental",
+      "description": "Proyecto experimental de mensajería web y comunicación en tiempo real.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Supabase Realtime"
+      ],
+      "explored_concepts": [
+        "Realtime events",
+        "Device identifiers in localStorage",
+        "Authentication concepts"
+      ],
+      "limitations": [
+        "No describir como sistema de mensajería de producción",
+        "Confirmar qué componentes siguen funcionando en la versión actual"
+      ]
+    },
+    {
+      "id": "theme_synthesia_css",
+      "name": "NeoKeys / Theme Synthesia CSS",
+      "repository": "https://github.com/ozclef/theme-synthesia-css",
+      "type": "music / interactive web application",
+      "status": "active_project",
+      "description": "Interfaz musical inspirada en Synthesia con reproducción y práctica de piezas mediante herramientas web de audio y MIDI.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Tone.js",
+        "@tonejs/midi",
+        "MidiWriterJS"
+      ],
+      "features_reported": [
+        "MIDI input",
+        "Practice mode",
+        "Freeplay",
+        "Normal mode",
+        "Built-in musical pieces"
+      ],
+      "musical_content_note": "Verificar licencias y derechos de las piezas incluidas antes de redistribuirlas."
+    },
+    {
+      "id": "portfolio_personal",
+      "name": "Portfolio personal",
+      "repository": "https://github.com/ozclef/ozclef",
+      "website": "https://oscarcruzdiaz.vercel.app/",
+      "type": "personal website / SPA",
+      "status": "deployed_and_in_development",
+      "description": "Sitio personal para reunir perfil, proyectos, publicaciones y CV mediante una interfaz ligera.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "JSON"
+      ],
+      "goals": [
+        "Centralizar información profesional",
+        "Consumir metadatos estructurados de proyectos",
+        "Mostrar documentación",
+        "Generar CV imprimible"
+      ]
+    },
+    {
+      "id": "cv_repository",
+      "name": "CV web imprimible",
+      "repository": "https://github.com/ozclef/cv",
+      "type": "web document / print stylesheet",
+      "status": "existing_project_to_refactor",
+      "description": "CV web con diseño propio y estilos de impresión mediante @media print. Se busca conectarlo a datos JSON y separar la hoja inicial del portafolio extendido.",
+      "features": [
+        "Custom CSS",
+        "Print media queries",
+        "A4 page setup",
+        "Web and print presentation"
+      ],
+      "next_steps": [
+        "Create central cv.json",
+        "Separate screen and print layouts",
+        "Generate one-page CV view",
+        "Optional project pages after the CV"
+      ]
+    },
+    {
+      "id": "ico_academic_portfolio",
+      "name": "Formación académica ICO",
+      "repository": "https://github.com/ozclef/ico-formacion-academica",
+      "type": "academic evidence repository",
+      "status": "documentation_in_progress",
+      "description": "Repositorio para organizar evidencias, proyectos y formación relacionados con ICO.",
+      "privacy": "Publicar únicamente documentos propios autorizados y versiones censuradas. Mantener originales con datos personales en privado."
+    },
+    {
+      "id": "sep_docs",
+      "name": "Documentación y fuentes SEP",
+      "repository": "https://github.com/ozclef/sep-docs-formacion-academica",
+      "type": "reference and document index",
+      "status": "being_organized",
+      "description": "Colección personal de documentos, enlaces y referencias oficiales relacionados con educación y formación. No representa por sí misma un expediente oficial emitido por SEP.",
+      "privacy": "Separar documentos públicos de expedientes personales y no publicar CURP, folios, tokens ni datos de cuentas."
+    },
+    {
+      "id": "biblia_offline",
+      "name": "Aplicación bíblica offline",
+      "repository": null,
+      "type": "offline-first web application",
+      "status": "planned_or_in_progress",
+      "description": "Aplicación con contenido estructurado en JSON/TXT y carga bajo demanda para uso sin conexión.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "JSON"
+      ],
+      "status_note": "Confirmar estado actual antes de incluir como proyecto terminado."
+    },
+    {
+      "id": "mercado_autos",
+      "name": "Mercado de autos",
+      "repository": null,
+      "type": "CRUD demo",
+      "status": "prototype",
+      "description": "Demostración CRUD con datos ficticios para explorar flujos de gestión."
+    },
+    {
+      "id": "trabaja_en_gob_mx",
+      "name": "Trabaja en Gob.mx",
+      "repository": null,
+      "type": "web project",
+      "status": "in_progress_or_experimental",
+      "description": "Proyecto personal relacionado con información y oportunidades de empleo público.",
+      "status_note": "Completar descripción técnica y estado actual antes de publicarlo como proyecto destacado."
+    },
+    {
+      "id": "wuanawuary",
+      "name": "Wuanawuary",
+      "repository": null,
+      "type": "website / project for family business context",
+      "status": "project_reported",
+      "description": "Proyecto web desarrollado para apoyar una iniciativa de un familiar.",
+      "status_note": "Confirmar alcance, tecnologías, autorización de publicación y URL antes de añadir al CV."
+    }
+  ],
+  "technical_environment": {
+    "primary_languages_and_formats": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "JSON",
+      "Markdown"
+    ],
+    "version_control": [
+      "Git",
+      "GitHub"
+    ],
+    "deployment_platforms": [
+      "Vercel",
+      "Netlify",
+      "Cloudflare Pages",
+      "Render"
+    ],
+    "data_and_backend_exploration": [
+      "SQL",
+      "MySQL Workbench",
+      "PostgreSQL",
+      "Supabase"
+    ],
+    "development_style": [
+      "Vanilla HTML/CSS/JavaScript where practical",
+      "Lightweight interfaces",
+      "Offline-first prototypes",
+      "JSON-based data exchange",
+      "Reuse-first project structure",
+      "Low-dependency deployment"
+    ],
+    "constraints_and_preferences": [
+      "Prefers lightweight tools and minimal dependencies.",
+      "Avoids unnecessary frameworks for small static projects.",
+      "Prefers free or low-cost hosting and services.",
+      "Wants to avoid exposing credentials, private records or client passwords.",
+      "Backend and infrastructure are learning priorities, not established professional specialties."
+    ]
+  },
+  "learning_roadmap": {
+    "current_focus": [
+      "Python fundamentals",
+      "SQL and PostgreSQL",
+      "REST APIs",
+      "Authentication and authorization",
+      "RLS and database permissions",
+      "GitHub Actions",
+      "CI/CD fundamentals",
+      "Linux and Bash",
+      "SSH and deployment keys"
+    ],
+    "later": [
+      "Docker fundamentals",
+      "Backend service design",
+      "Automated testing",
+      "Server deployment",
+      "Secrets management",
+      "Monitoring and maintenance"
+    ],
+    "goal": "Construir una infraestructura de desarrollo ligera y reutilizable que conecte repositorios, datos estructurados, validaciones automatizadas y despliegues."
+  },
+  "portfolio_and_work_evidence": {
+    "public_profile": "https://github.com/ozclef",
+    "main_portfolio": "https://oscarcruzdiaz.vercel.app/",
+    "cv": "https://oscarcruzdiaz.vercel.app/#/cv",
+    "evidence_types": [
+      "Public GitHub repositories",
+      "README documentation",
+      "Commit history",
+      "Deployed websites",
+      "Screenshots and screen recordings",
+      "Academic certificates and diplomas",
+      "Fork and collaboration workflow"
+    ],
+    "evidence_policy": "Cada afirmación importante del CV debe poder relacionarse con un repositorio, documento, demo, captura o explicación concreta. No publicar datos personales ni información de clientes sin permiso."
+  },
+  "freelance_services": {
+    "status": "independent_offering_in_development",
+    "possible_services": [
+      "Static websites and landing pages",
+      "Portfolio and informational websites",
+      "Lightweight browser-based tools",
+      "Local CRUD prototypes",
+      "Inventory and data-entry prototypes",
+      "Basic technical support and computer maintenance"
+    ],
+    "scope_policy": [
+      "Define deliverables and limits before accepting work.",
+      "Use written scope and payment terms.",
+      "Do not request or retain client passwords or PINs.",
+      "Separate static prototypes from systems requiring authentication, databases or ongoing server maintenance.",
+      "Do not promise backend, security or uptime guarantees beyond implemented capabilities."
+    ],
+    "pricing": {
+      "status": "historical_ideas_not_final_quotes",
+      "note": "Los precios previamente explorados son referencias de planeación, no tarifas definitivas ni ofertas vigentes. Cotizar según alcance, soporte, hosting, backend y mantenimiento."
+    }
+  },
+  "work_style_and_values": {
+    "strengths": [
+      "Autonomous learning",
+      "Practical problem solving",
+      "Documentation and evidence preservation",
+      "Privacy-conscious handling of information",
+      "Interest in maintainable and reusable systems",
+      "Teaching and explaining technology"
+    ],
+    "preferences": [
+      "Remote opportunities when available",
+      "Clear scope and responsibilities",
+      "Junior-level roles with room to grow",
+      "Practical software development and technical support",
+      "Honest evaluation of skills and experience"
+    ]
+  },
+  "languages": [
+    {
+      "language": "Spanish",
+      "level": "native_or_primary",
+      "verification": "user_conversation"
+    },
+    {
+      "language": "English",
+      "level": null,
+      "note": "Pendiente de autoevaluar y confirmar; no declarar nivel hasta definirlo."
+    }
+  ],
+  "information_to_confirm": [
+    "Exact dates and type of independent freelance work.",
+    "Official name and level of the ICO program attended in 2018-2020.",
+    "Exact course title, dates and diploma details for CECATI 82.",
+    "Issuer, dates and evidence links for HTML, Java, SQL, MySQL Workbench and Microsoft Excel certificates.",
+    "English proficiency level.",
+    "Current status and public URLs of each project without a repository URL.",
+    "Which projects were paid client work, unpaid demonstrations, academic work or personal projects.",
+    "Whether the LinkedIn profile URL is still current.",
+    "Whether the email address should be public on the CV."
+  ],
+  "publication_rules": {
+    "public_cv": [
+      "Name and professional contact",
+      "Junior-level professional summary",
+      "Relevant skills with accurate proficiency",
+      "ICO teaching experience",
+      "Selected demonstrable projects",
+      "Relevant education and verified credentials",
+      "Portfolio and GitHub links"
+    ],
+    "private_master_only": [
+      "Personal academic records and emails",
+      "CURP, folios, tokens, account identifiers",
+      "Unredacted diploma validation pages",
+      "Client or store inventory data",
+      "Private family or personal history",
+      "Unverified claims and draft notes"
+    ],
+    "truthfulness": [
+      "Do not claim completed high school; Prepa en Línea was not completed.",
+      "Do not claim a university degree.",
+      "Do not describe Docker as a current skill; it had not been started as of 2026-10-31.",
+      "Do not describe GitHub Actions or CI/CD as mastered; they are learning goals.",
+      "Do not present prototypes as production systems.",
+      "Do not merge the real store inventory work with the fictional Tiendas3E demonstration.",
+      "Do not present all personal projects as paid freelance employment."
+    ]
+  }
+}
