@@ -1,0 +1,23 @@
+/* Vista normal */
+.cv-page {
+  display: block;
+}
+
+/* Impresión */
+@media print {
+  .no-print {
+    display: none !important;
+  }
+
+  .cv-page {
+    page-break-after: always;
+  }
+
+  .project-post {
+    break-inside: avoid;
+  }
+
+  .portfolio-print {
+    display: block;
+  }
+}
