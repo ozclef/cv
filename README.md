@@ -1,6 +1,10 @@
 # OSCAR CRUZ DÍAZ
 **Desarrollador Web Jr. | JavaScript · HTML · CSS · Git**
 
+
+<img width="1301" height="1080" alt="image" src="https://github.com/user-attachments/assets/677b0aed-d194-4b6d-a9e3-99d04091f0e0" />
+
+
 Tlaxcala, México · Disponibilidad para oportunidades remotas
 
 **Portafolio:** https://oscarcruzdiaz.vercel.app  
