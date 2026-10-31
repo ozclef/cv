@@ -1,7 +1,7 @@
 
 import React, { useEffect, useState } from "react";
 import { createRoot } from "react-dom/client";
-import "./cv.css"; // Tu CSS existente
+import "https://ozclef.github.io/cv/css/print-post.css"; // Tu CSS existente
 
 function App() {
   const [cv, setCv] = useState(null);
@@ -10,7 +10,7 @@ function App() {
   useEffect(() => {
     async function cargarCV() {
       try {
-        const respuesta = await fetch("/cv.json");
+        const respuesta = await fetch("https://ozclef.github.io/cv/data.json");
 
         if (!respuesta.ok) {
           throw new Error("No se pudo cargar cv.json");
