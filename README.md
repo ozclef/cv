@@ -53,3 +53,14 @@ Este repositorio también permite consultar la evolución del proyecto mediante 
 
 **Oscar Cruz Díaz**  
 Desarrollo web · Sistemas · Integración de datos · Aprendizaje continuo
+
+
+----
+
+
+
+```bsh
+git branch
+git switch -c cv-mobile
+
+``` 
