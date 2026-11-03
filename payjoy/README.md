@@ -1,11 +1,21 @@
 # CV  -  Oscar Cruz Díaz
 
 
-https://jobs.lever.co/payjoy/7134962f-c2aa-4dff-80de-77a277ae211b
+-----
+
+
+
+###    **Desarrollador web autodidacta | Integración de sistemas y datos**
 
 ----
 
+
+https://jobs.lever.co/payjoy/7134962f-c2aa-4dff-80de-77a277ae211b
+
+
 https://github.com/PayJoy
+
+
 
 <img width="544" height="185" alt="image" src="https://github.com/user-attachments/assets/071ba9f6-fd7a-491e-bda1-83e5a7d55d87" />
 
@@ -13,20 +23,6 @@ https://github.com/PayJoy
 
 
 
-
-###  perfil profesional
-
-
-
-
-###  Desarrollador web autodidacta | Integración de sistemas y datos
-
-
-
-
-# Oscar Cruz Díaz
-
-**Desarrollador web autodidacta | Integración de sistemas y datos**
 
 Tlaxcala, México\
 GitHub: [https://github.com/ozclef](https://github.com/ozclef)\
@@ -113,7 +109,7 @@ Son principios de ingeniería de software muy importantes:
  -Cómo funciona una página desde el lado del navegador y hablaste de frontend, backend, bases de datos, RLS e infraestructura.
 
 
- ### Importante sobre las tecnologías:
+ ### tecnologías:
 
 - No conocimientos que no se tiene.
 - No robarse información ni modificaste datos ajenos.
@@ -137,7 +133,7 @@ Operations · Global Collections · Ciudad de México · Tiempo completo · Híb
 
 
  
- #### combina varias cosas que ya has comenzado a trabajar:
+ #### combina herramientas a trabajar:
 
 | Lo que busca      |  situación actual               |
 | ------------------ | --------------------------------- |
