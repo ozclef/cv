@@ -53,6 +53,30 @@ if (project) {
 /*
 
 ```
+        ],
+        "caveat": "Keep off the primary skills list unless current code demonstrates it."
+      },
+      {
+        "name": "PowerShell",
+        "level": "basic_practical",
+        "evidence": [
+          "Windows command-line workflows"
+        ]
+      },
+      {
+        "name": "Linux",
+        "level": "exploratory",
+        "evidence": [
+          "Live systems and desktop Linux experimentation"
+        ]
+      }
+    ],
+    "currently_learning"
 
+
+   "not_started_or_not_claimed": [
+      {
+        "name": "Docker",
+        "status":
 */
 */
