@@ -169,23 +169,6 @@ Eso sí: es híbrida en CDMX. Hay que considerar la distancia desde Tlaxcala ant
 
 
 
-```md
-payjoy
-│
-├── cv/
-│   ├── CV-general.pdf
-│   └── README.md
-│
-└── apply/
-    └── payjoy-collections-tools/
-        ├── CV-Oscar-PayJoy.pdf
-        ├── application.md
-        └── README.md
-```
-
-
-
-
 
 
 
