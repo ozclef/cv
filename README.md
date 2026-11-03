@@ -5,7 +5,11 @@
 <meta name="viewport" content="width=device-width,initial-scale=1" />
 <meta name="description" content="Portfolio profesional de Oscar Cruz Díaz. Desarrollo web, JavaScript, SQL y proyectos freelance.">	
 <link rel="stylesheet" href="https://oscarcruzdiaz.vercel.app/css/style.css">
-<link rel="icon" href="https://avatars.githubusercontent.com/u/212662790?v=4&size=64">		
+<link rel="icon" href="https://avatars.githubusercontent.com/u/212662790?v=4&size=64">	
+<style>
+	h1, h2, h3, h4, a {color:white} 
+	
+</style>
 	
 
 # OSCAR CRUZ DÍAZ
@@ -129,6 +133,9 @@ No vamos a inventar experiencia. Vamos a presentar mejor la que sí tienes.
 
 Mi selección recomendada
 
+<div class="card">
+
+
 | Cargo para buscar           | Qué oportunidades cubre                               |
 | --------------------------- | ----------------------------------------------------- |
 | Junior Web Developer        | Desarrollo web general                                |
@@ -138,7 +145,7 @@ Mi selección recomendada
 | IT Support Specialist       | Soporte técnico, sistemas y resolución de problemas   |
 
 
-
+</div>
 
 ¿Por qué estos?
 
