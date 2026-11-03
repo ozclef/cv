@@ -1,17 +1,8 @@
-<meta property="og:title" content="Oscar Cruz Díaz">
-<meta property="og:description" content="Desarrollador Web">
-<meta property="og:image" content="/img/studio rgb pixel-heart.jpg">	<meta property="og:url" content="https://oscarcruzdiaz.vercel.app">
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<meta name="description" content="Portfolio profesional de Oscar Cruz Díaz. Desarrollo web, JavaScript, SQL y proyectos freelance.">	
+	<meta property="og:url" content="https://oscarcruzdiaz.vercel.app">
+
 <link rel="stylesheet" href="css/print.css">
 <link rel="icon" href="https://avatars.githubusercontent.com/u/212662790?v=4&size=64">	
-<style>
-	
-	h1, h2, h3, h4, a {color:white} 
-	
-</style>
-	
+
 
 # OSCAR CRUZ DÍAZ
 
@@ -29,9 +20,16 @@
 
 Tlaxcala, México · Disponibilidad para oportunidades remotas
 
-**Portafolio:** https://oscarcruzdiaz.vercel.app  
 **GitHub:** https://github.com/ozclef  
 **Correo:** oscar.cdzz.14@outlook.com
+**Portafolio: Website Personal** https://oscarcruzdiaz.vercel.app  
+
+
+
+https://www.linkedin.com/in/oscar-cruz-diaz/
+
+------
+
 
 ## PERFIL PROFESIONAL
 
@@ -134,8 +132,7 @@ No vamos a inventar experiencia. Vamos a presentar mejor la que sí tienes.
 
 Mi selección recomendada
 
-<div class="card">
-
+```md
 
 | Cargo para buscar           | Qué oportunidades cubre                               |
 | --------------------------- | ----------------------------------------------------- |
@@ -146,7 +143,7 @@ Mi selección recomendada
 | IT Support Specialist       | Soporte técnico, sistemas y resolución de problemas   |
 
 
-</div>
+```
 
 ¿Por qué estos?
 
@@ -208,7 +205,7 @@ Para México (Tlaxcala/Puebla):
 
 
 
-## 4. Tu experiencia
+## 4.  Experiencia
 
 
  inventario real, el sistema local, 
@@ -222,14 +219,10 @@ soporte de aplicaciones y sistemas.
 
 
 
-https://www.linkedin.com/in/oscar-cruz-diaz/
-
-
-
-
 
 ------
 
+<img width="1152" height="599" alt="image" src="https://github.com/user-attachments/assets/af47542a-2b9a-4151-ad75-277be55a12a7" />
 
 
 
