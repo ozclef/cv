@@ -169,8 +169,8 @@ Eso sí: es híbrida en CDMX. Hay que considerar la distancia desde Tlaxcala ant
 
 
 
-```
-main
+```md
+payjoy
 │
 ├── cv/
 │   ├── CV-general.pdf
@@ -187,3 +187,49 @@ main
 
 
 
+
+
+| Prestación                    | Cantidad           |
+| ----------------------------- | ------------------ |
+| Co-working Travel perk        | $2,000 USD anuales |
+| Professional Development perk | $2,000 USD anuales |
+
+
+ presupuesto para formación profesional. 
+ Podrías aprovecharlo para cursos,
+ certificaciones o capacitación técnica, según las condiciones de la empresa.
+
+
+
+
+### Forma de trabajar con seguridad
+
+
+- No compartir credenciales privadas.
+- No permitir accesos sin autorización.
+- No ejecutar bypasses por petición de terceros.
+- No exponer información de clientes.
+- Documentar cambios y mantener trazabilidad.
+
+
+ 
+ distinción técnica importante:
+
+Una API key pública no se protege como una contraseña privada.
+
+Por ejemplo, en Supabase:
+
+- `anon` / publishable key: puede aparecer en el frontend; su seguridad depende de configurar correctamente RLS y permisos.
+- `service_role` / secret key: jamás debe exponerse en JavaScript del navegador.
+- Credenciales privadas: deben mantenerse fuera de Git y de los despliegues públicos.
+
+Eso sí es una práctica que puedes explicar en una entrevista.
+
+
+
+### Estricto con los intentos de desbloqueo no autorizados.
+
+ 
+ Mentalidad de seguridad.
+ 
+SQL, integraciones, documentación y capacidad de aprender sus herramientas.
