@@ -1,5 +1,5 @@
 
-<!doctype html>
+<!---!doctype html--->
 <html lang="Es-es">
 <head>
 	<meta property="og:title" content="Oscar Cruz Díaz">
