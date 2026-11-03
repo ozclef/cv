@@ -4,7 +4,14 @@
 **Desarrollador Web Jr. | JavaScript · HTML · CSS · Git  **
 
 
+https://ozclef.github.io/cv/
 
+
+
+<link rel="stylesheet" href="css-print.css">
+<link rel="stylesheet" href="https://oscarcruzdiaz.vercel.app/css/style.css">
+
+https://oscarcruzdiaz.vercel.app/
 
 ---
 
@@ -203,6 +210,11 @@ soporte de aplicaciones y sistemas.
 
 https://www.linkedin.com/in/oscar-cruz-diaz/
 
+
+
+
+
+------
 
 
 
