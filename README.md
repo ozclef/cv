@@ -6,52 +6,8 @@
 
 
 
-<script>
-  async function loadProject(url) {
-  try {
-    const response = await fetch(url);
+---
 
-    if (!response.ok) {
-      throw new Error(`HTTP ${response.status}`);
-    }
-
-    const project = await response.json();
-
-    return project;
-
-  } catch (error) {
-    console.error("No se pudo cargar el proyecto:", error);
-    return null;
-  }
-}
-
-
-
-  
-/*
-
-</script>
-
-```js
-
-*/
-
-const project = await loadProject("./project.json");
-
-if (project) {
-  document.querySelector("#app").innerHTML = `
-    <article class="card">
-      <img src="${project.image}" alt="">
-      <h2>${project.title}</h2>
-      <p>${project.description}</p>
-      <a href="${project.repository}">Ver repositorio</a>
-    </article>
-  `;
-}
-
-```
-
-*/
 
 Tlaxcala, México · Disponibilidad para oportunidades remotas
 
@@ -152,10 +108,6 @@ Integrarme a un equipo de desarrollo en un puesto junior o auxiliar donde pueda 
 
 
 
-
-
-JAJAJAJAJA 😭 LinkedIn poniéndote obstáculos hasta para buscar trabajo. Vamos a configurarlo estratégicamente.
-
 Y sí: quiero posicionarte para oportunidades internacionales sin venderte como senior, y para Tlaxcala/Puebla buscar puestos donde realmente puedas entrar, demostrar lo que sabes y crecer.
 
 No vamos a inventar experiencia. Vamos a presentar mejor la que sí tienes.
@@ -241,6 +193,9 @@ Mi objetivo sería que LinkedIn no te encierre en diseñador web ni te descarte 
 https://www.linkedin.com/in/oscar-cruz-diaz/
 
 
+
+
+
 <img width="1131" height="596" alt="Captura de pantalla_31-10-2026_8369_www linkedin com" src="https://github.com/user-attachments/assets/24fd8346-eeb0-4491-938c-e9c0626bddc5" />
 
 
@@ -248,3 +203,52 @@ https://www.linkedin.com/in/oscar-cruz-diaz/
 
 
 <img width="1002" height="337" alt="Captura de pantalla_31-10-2026_5164_tramitesprofesiones sep gob mx" src="https://github.com/user-attachments/assets/d59105fd-3f09-438e-bf9f-7be61c4dedde" />
+
+
+
+```js
+<script>
+  async function loadProject(url) {
+  try {
+    const response = await fetch(url);
+
+    if (!response.ok) {
+      throw new Error(`HTTP ${response.status}`);
+    }
+
+    const project = await response.json();
+
+    return project;
+
+  } catch (error) {
+    console.error("No se pudo cargar el proyecto:", error);
+    return null;
+  }
+}
+
+</script>
+
+```
+  
+
+
+```js
+
+/*  
+*/
+const project = await loadProject("./project.json");
+
+if (project) {
+  document.querySelector("#app").innerHTML = `
+    <article class="card">
+      <img src="${project.image}" alt="">
+      <h2>${project.title}</h2>
+      <p>${project.description}</p>
+      <a href="${project.repository}">Ver repositorio</a>
+    </article>
+  `;
+}
+
+```
+
+
