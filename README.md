@@ -1,8 +1,8 @@
 # OSCAR CRUZ DÍAZ
-**Desarrollador Web Jr. | JavaScript · HTML · CSS · Git**
 
 
-<img width="1301" height="1080" alt="image" src="https://github.com/user-attachments/assets/677b0aed-d194-4b6d-a9e3-99d04091f0e0" />
+**Desarrollador Web Jr. | JavaScript · HTML · CSS · Git  **
+
 
 
 
@@ -124,15 +124,19 @@ Mi selección recomendada
 | Junior Full Stack Developer | Puestos iniciales con frontend y backend en formación |
 | IT Support Specialist       | Soporte técnico, sistemas y resolución de problemas   |
 
+
+
+
 ¿Por qué estos?
 
-Porque tienes proyectos web desplegados, CRUD, Git/GitHub, experiencia con inventarios reales, bases de datos en formación y experiencia enseñando tecnología. También tienes formación en mantenimiento de equipos.
+
+proyectos web desplegados, CRUD, Git/GitHub, experiencia con inventarios reales, bases de datos en formación y experiencia enseñando tecnología. También tienes formación en mantenimiento de equipos.
 
 No pondría Senior, Software Architect, DevOps Engineer ni Database Administrator. Son objetivos que puedes alcanzar, pero no representan todavía tu nivel demostrado.
 
 ## 2. Ubicaciones de empleo
 
-Yo configuraría una estrategia de dos mercados:
+ estrategia de dos mercados:
 
 Mercado internacional
 
@@ -141,26 +145,27 @@ Prioridad
 - Remote — United States (si LinkedIn permite seleccionarlo).
 - Remote — Mexico.
 - Oportunidades internacionales que acepten contratación desde México.
+- Teletrabajar
 
 Mercado local
 
 - Tlaxcala de Xicohténcatl, Tlaxcala.
-- Puebla, Puebla.
-- Ciudad de México.
 
-¿Te interesa teletrabajar?
 
-Sí
 
-Actívalo. Es fundamental para tu búsqueda.
 
-Ojo: una vacante que dice Remote — United States no necesariamente acepta candidatos residentes en México. Busca también términos como `Worldwide`, `LATAM`, `Mexico Remote`, `International Contractor` y `Remote - Latin America`.
+Una vacante que dice Remote — United States no necesariamente 
+acepta candidatos residentes en México. Busca también términos como 
+`Worldwide`, `LATAM`, `Mexico Remote`, `International Contractor` y 
+`Remote - Latin America`.
+
+
 
 ## 3. Cómo posicionarte en cada mercado
 
 No necesitas dos identidades ni dos historiales.
 
-Para Estados Unidos:
+**Estados Unidos:**
 
 - Junior Web Developer
 - Frontend Developer
@@ -180,15 +185,21 @@ Para México (Tlaxcala/Puebla):
 - Desarrollador de aplicaciones web
 - Implementación de sistemas e inventarios
 
-La diferencia es el lenguaje de búsqueda y el tipo de vacante, no tus capacidades reales.
 
-## 4. Una cosa que quiero evitar
 
-No te limites a buscar empleos que digan «desarrollador de páginas web».
+## 4. Tu experiencia
 
-Tu experiencia con el inventario real, el sistema local, GitHub, los despliegues y la enseñanza tecnológica también puede encajar en puestos de implementación, soporte de aplicaciones y sistemas.
 
-Mi objetivo sería que LinkedIn no te encierre en diseñador web ni te descarte por no ser todavía full-stack.
+ inventario real, el sistema local, 
+GitHub, los despliegues y la enseñanza tecnológica 
+
+puestos de implementación,
+soporte de aplicaciones y sistemas.
+
+
+---
+
+
 
 https://www.linkedin.com/in/oscar-cruz-diaz/
 
