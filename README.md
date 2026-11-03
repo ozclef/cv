@@ -25,7 +25,8 @@
 # OSCAR CRUZ DÍAZ
 
 
-**Desarrollador Web Jr. | JavaScript · HTML · CSS · Git  **
+**Desarrollador Web Jr. | JavaScript · HTML · CSS · Git**
+
 
 
 
