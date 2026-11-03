@@ -1,3 +1,17 @@
+
+<!doctype html>
+<html lang="Es-es">
+<head>
+	<meta property="og:title" content="Oscar Cruz Díaz">
+	<meta property="og:description" content="Desarrollador Web">
+	<meta property="og:image" content="/img/studio rgb pixel-heart.jpg">
+	<meta property="og:url" content="https://oscarcruzdiaz.vercel.app">
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width,initial-scale=1" />
+	<meta name="description" content="Portfolio profesional de Oscar Cruz Díaz. Desarrollo web, JavaScript, SQL y proyectos freelance.">
+		<link rel="icon" href="[/hacker02.jpeg](https://avatars.githubusercontent.com/u/212662790?v=4&size=64)">
+
+
 # OSCAR CRUZ DÍAZ
 
 
