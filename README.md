@@ -1,5 +1,5 @@
 
-<!---!doctype html--->
+
 <html lang="Es-es">
 <head>
 	<meta property="og:title" content="Oscar Cruz Díaz">
@@ -10,20 +10,12 @@
 	<meta name="viewport" content="width=device-width,initial-scale=1" />
 	<meta name="description" content="Portfolio profesional de Oscar Cruz Díaz. Desarrollo web, JavaScript, SQL y proyectos freelance.">	
 <link rel="stylesheet" href="https://oscarcruzdiaz.vercel.app/css/style.css">
-	<link rel="icon" href="https://avatars.githubusercontent.com/u/212662790?v=4&size=64">	
-
-
+	<link rel="icon" href="https://avatars.githubusercontent.com/u/212662790?v=4&size=64">		
 	
-	
-	<!-----
-	
-	<link rel="stylesheet" href="css-print.css">	
-	------>
-	
-
 
 # OSCAR CRUZ DÍAZ
 
+---
 
 **Desarrollador Web Jr. | JavaScript · HTML · CSS · Git**
 
