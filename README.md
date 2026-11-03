@@ -9,15 +9,12 @@
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width,initial-scale=1" />
 	<meta name="description" content="Portfolio profesional de Oscar Cruz Díaz. Desarrollo web, JavaScript, SQL y proyectos freelance.">	
-<link rel="icon" href="https://avatars.githubusercontent.com/u/212662790?v=4&size=64">
-
-<link rel="stylesheet" href="css-print.css">	
+<link rel="icon" href="https://avatars.githubusercontent.com/u/212662790?v=4&size=64">	<link rel="stylesheet" href="https://oscarcruzdiaz.vercel.app/css/style.css">
 	
 	
-	<!--
+	<!-----
 	
-	-!doctype html
-	<link rel="stylesheet" href="https://oscarcruzdiaz.vercel.app/css/style.css">
+	<link rel="stylesheet" href="css-print.css">	
 	------>
 	
 
