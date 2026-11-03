@@ -1,7 +1,5 @@
 
 
-<html lang="Es-es">
-<head>
 	<meta property="og:title" content="Oscar Cruz Díaz">
 	<meta property="og:description" content="Desarrollador Web">
 	<meta property="og:image" content="/img/studio rgb pixel-heart.jpg">
