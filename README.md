@@ -72,3 +72,7 @@ Integrarme a un equipo de tecnolog√≠a donde pueda contribuir en la implementaci√
 
 
 
+
+## RFC : Regimen ...
+
+<img width="1425" height="686" alt="Captura de pantalla_11-11-2026_74523_m sat gob mx" src="https://github.com/user-attachments/assets/c45b23bc-9beb-428e-a131-db4e4cdcda7f" />
