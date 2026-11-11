@@ -1,7 +1,7 @@
 # CV  -  Oscar Cruz Díaz
 
 
-https://github.com/ozclef/cv/tree/payjoy
+https://github.com/ozclef/cv/tree/sesa
 
 
 -----
@@ -13,10 +13,9 @@ https://github.com/ozclef/cv/tree/payjoy
 ----
 
 
-https://jobs.lever.co/payjoy/7134962f-c2aa-4dff-80de-77a277ae211b
 
 
-https://github.com/PayJoy
+https://github.com/
 
 
 
@@ -80,139 +79,3 @@ Integrarme a un equipo de tecnología donde pueda contribuir en la implementaci�
 Este es un primer borrador de contenido, no una declaración de que ya dominas todas las tecnologías mencionadas.
 
 
-
-## 3. Presente
-
-
-> Detectar errores antes de que ocurran, prevenirlos, responsabilidad, evitar complejidad innecesaria.
-
-
-
-
-Son principios de ingeniería de software muy importantes:
-
-- Prevención de errores.
-- Validación de entradas y datos.
-- Manejo de errores.
-- Seguridad por diseño.
-- Simplicidad y mantenibilidad.
-- Documentación y trazabilidad.
-
-
----
-
-
-
-
-
-
-
--Primero: portar valor profesional incluso sin internet, sin IA y sin tener todas las herramientas instaladas.
--Horas trabajando localmente.
- -Cómo funciona una página desde el lado del navegador y hablaste de frontend, backend, bases de datos, RLS e infraestructura.
-
-
- ### tecnologías:
-
-- No conocimientos que no se tiene.
-- No robarse información ni modificaste datos ajenos.
-- No confunciones de  tener acceso técnico con tener autorización. (auth & autoriz)
-- Intentaste explicarle las cosas desde el punto de vista del usuario y del desarrollador.
--Fundamental en seguridad informática y desarrollo de software.
-
-
-## 1.  PayJoy: vacante 
-
-
-# Collections Tools Analyst
-
-Vacante publicada
-
-PayJoy
-
-Operations · Global Collections · Ciudad de México · Tiempo completo · Híbrido
-
-[Descripción oficial de la vacante](https://jobs.lever.co/payjoy/7134962f-c2aa-4dff-80de-77a277ae211b?utm_source=chatgpt.com)
-
-
- 
- #### combina herramientas a trabajar:
-
-| Lo que busca      |  situación actual               |
-| ------------------ | --------------------------------- |
-| SQL                | Experiencia práctica              |
-| Integraciones API  |  Trabajado con ellas           |
-| Calidad de datos   | Experiencia en sistemas y pruebas |
-| Automatización     | En aprendizaje                    |
-| Python             | Nivel inicial                     |
-| Customer.io / CRM  | Por aprender                      |
-| Pipelines de datos | Conocimientos parciales           |
-| Pruebas A/B        | Por aprender                      |
-
-
-la descripción actual menciona entre 1 y 2 años de experiencia en datos, CRM, automatización u operaciones, SQL funcional, herramientas de automatización y pruebas controladas. También solicita inglés avanzado y licenciatura o experiencia práctica equivalente. Python e integraciones API aparecen como conocimientos adicionales valorados.&#x20;
-
-[image](https://www.google.com/s2/favicons?domain=https://jobs.lever.co\&sz=32)
-
-Collections Tools Analyst+1
-
-
-
-Mi opinión: no cumples todos los requisitos todavía, pero tampoco estás inventando una candidatura. Tienes experiencia relacionada que puedes demostrar.
-
-Eso sí: es híbrida en CDMX. Hay que considerar la distancia desde Tlaxcala antes de comprometerte.
-
-## 2. Qué haría con tu CV
-
-#### versión especializada, na rama nueva en Git.
-
-
-
-
-
-
-
-| Prestación                    | Cantidad           |
-| ----------------------------- | ------------------ |
-| Co-working Travel perk        | $2,000 USD anuales |
-| Professional Development perk | $2,000 USD anuales |
-
-
- presupuesto para formación profesional. 
- Podrías aprovecharlo para cursos,
- certificaciones o capacitación técnica, según las condiciones de la empresa.
-
-
-
-
-### Forma de trabajar con seguridad
-
-
-- No compartir credenciales privadas.
-- No permitir accesos sin autorización.
-- No ejecutar bypasses por petición de terceros.
-- No exponer información de clientes.
-- Documentar cambios y mantener trazabilidad.
-
-
- 
- distinción técnica importante:
-
-Una API key pública no se protege como una contraseña privada.
-
-Por ejemplo, en Supabase:
-
-- `anon` / publishable key: puede aparecer en el frontend; su seguridad depende de configurar correctamente RLS y permisos.
-- `service_role` / secret key: jamás debe exponerse en JavaScript del navegador.
-- Credenciales privadas: deben mantenerse fuera de Git y de los despliegues públicos.
-
-Eso sí es una práctica que puedes explicar en una entrevista.
-
-
-
-### Estricto con los intentos de desbloqueo no autorizados.
-
- 
- Mentalidad de seguridad.
- 
-SQL, integraciones, documentación y capacidad de aprender sus herramientas.
