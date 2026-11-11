@@ -64,3 +64,15 @@ git branch
 git switch -c cv-mobile
 
 ``` 
+
+
+----
+
+##  meta 
+
+Mi meta en la vida es continuar mi formación académica y profesional, estudiar una ingeniería y posteriormente realizar estudios de posgrado, especializándome en arquitectura de software y tecnologías de la información. Asimismo, desarrollar mis capacidades y contribuir positivamente en mi entorno laboral y personal.
+
+
+##  pasatiempo
+
+Desarrollo de proyectos tecnológicos y programación; aprendizaje autodidacta, investigación de nuevas herramientas informáticas y colaboración mediante GitHub.
