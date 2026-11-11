@@ -19,12 +19,6 @@ https://github.com/
 
 
 
-<img width="544" height="185" alt="image" src="https://github.com/user-attachments/assets/071ba9f6-fd7a-491e-bda1-83e5a7d55d87" />
-
-<img width="1497" height="757" alt="image" src="https://github.com/user-attachments/assets/885d1726-1bde-4e6b-9167-5ea4107697b0" />
-
-
-
 
 Tlaxcala, México\
 GitHub: [https://github.com/ozclef](https://github.com/ozclef)\
@@ -66,7 +60,7 @@ Actualmente amplío mis conocimientos en Python, Docker, PostgreSQL y arquitectu
 - Enseñanza de lógica, herramientas digitales y programación.
 - Elaboración de ejercicios y proyectos educativos.
 
-## Formación
+## Formación Académica
 
 - ICO — Formación en operación de microcomputadoras.
 - CECATI 82 — Mantenimiento de computadoras.
@@ -76,6 +70,5 @@ Actualmente amplío mis conocimientos en Python, Docker, PostgreSQL y arquitectu
 
 Integrarme a un equipo de tecnología donde pueda contribuir en la implementación, mantenimiento y mejora de sistemas, automatización de procesos y calidad de datos, mientras continúo desarrollando mis competencias técnicas.
 
-Este es un primer borrador de contenido, no una declaración de que ya dominas todas las tecnologías mencionadas.
 
 
