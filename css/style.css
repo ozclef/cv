@@ -277,7 +277,7 @@ IMG   BORDERS DECOS items itemos data info */
     border-radius: 8px
 }
 
-@media (max-width: 968px) {
+@media (max-width: 768px) {
     .layout {
         grid-template-columns: 1fr;
     }

@@ -1,4 +1,3 @@
-
 /* ========================================
    IMPRESIÓN — CURRÍCULUM VITAE
 ======================================== */
@@ -9,16 +8,15 @@
 }
 
 @media print {
-
     /* Base */
     *,
     *::before,
     *::after {
+        scale: 0.7;
         box-sizing: border-box;
         -webkit-print-color-adjust: exact;
         print-color-adjust: exact;
     }
-
     html,
     body {
         width: 100%;
@@ -30,7 +28,6 @@
         font-size: 8.5pt;
         line-height: 1.3;
     }
-
     /* Tipografía general */
     p,
     li,
@@ -39,36 +36,29 @@
         font-size: 8.5pt;
         line-height: 1.3;
     }
-
     p {
         margin: 0 0 4pt;
     }
-
     a {
         color: #164b75 !important;
         text-decoration: none;
         overflow-wrap: anywhere;
     }
-
     li {
         margin-bottom: 2pt;
     }
-
     h1 {
         font-size: 16pt;
         margin: 0 0 5pt;
     }
-
     h2 {
         font-size: 12pt;
         margin: 0 0 5pt;
     }
-
     h3 {
         font-size: 10pt;
         margin: 0 0 4pt;
     }
-
     /* Header */
     header {
         position: static !important;
@@ -83,13 +73,11 @@
         border: 0;
         border-bottom: 1px solid #bbb;
     }
-
     header h1,
     header h2,
     header h3 {
         color: #222 !important;
     }
-
     /* Ocultar controles */
     header nav,
     nav,
@@ -100,7 +88,6 @@
     .no-print {
         display: none !important;
     }
-
     /* Layout: dos columnas */
     .layout {
         display: grid !important;
@@ -111,9 +98,8 @@
         padding: 0;
         margin: 0;
     }
-
     /* Main a la derecha */
-    .layout > main {
+    .layout>main {
         grid-column: 2;
         grid-row: 1 / span 2;
         width: 100%;
@@ -124,9 +110,8 @@
         box-shadow: none;
         border: 0;
     }
-
     /* Asides a la izquierda */
-    .layout > aside {
+    .layout>aside {
         grid-column: 1;
         display: block !important;
         width: 100%;
@@ -139,7 +124,6 @@
         border-radius: 4px;
         box-shadow: none;
     }
-
     /* Perfil */
     .perfil {
         background: #fff !important;
@@ -147,7 +131,6 @@
         border: 0;
         box-shadow: none;
     }
-
     .portada {
         height: auto !important;
         min-height: 0 !important;
@@ -155,7 +138,6 @@
         margin: 0;
         background: none !important;
     }
-
     .foto-perfil {
         position: static !important;
         display: block !important;
@@ -168,20 +150,16 @@
         background-size: cover;
         background-position: center;
     }
-
     .info {
         padding: 5pt 0;
     }
-
     .info h2 {
         font-size: 12pt;
     }
-
     .info p {
         font-size: 8pt;
         color: #444 !important;
     }
-
     /* Tarjetas y datos */
     .card,
     .dato {
@@ -195,26 +173,22 @@
         break-inside: avoid;
         page-break-inside: avoid;
     }
-
     .card h2,
     .card h3,
     .dato h2,
     .dato h3 {
         color: #222 !important;
     }
-
     /* Elementos auxiliares */
     .datos {
         display: grid;
         grid-template-columns: 1fr;
         gap: 5pt;
     }
-
     .skills,
     .projects {
         gap: 4pt;
     }
-
     .skill,
     .project-badge {
         font-size: 8pt;
@@ -223,16 +197,13 @@
         background: #f5f5f5 !important;
         color: #222 !important;
     }
-
     .section-title {
         font-size: 12pt;
         margin: 8pt 0 5pt;
     }
-
     img {
         max-width: 100%;
     }
-
     /* Footer */
     footer {
         display: block !important;
