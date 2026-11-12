@@ -1,8 +1,10 @@
 # CV  -  Oscar Cruz Díaz
 
+Repositorio público de documentación y presentación de mi perfil profesional.
 
 https://github.com/ozclef/cv/tree/sesa
 
+**[Consultar mi CV](https://oscarcruzdiaz.vercel.app/cv)**
 
 -----
 
@@ -10,8 +12,8 @@ https://github.com/ozclef/cv/tree/sesa
 
 ###    **Desarrollador web autodidacta | Integración de sistemas y datos**
 
-----
 
+##  pasatiempo
 
 
 
@@ -70,8 +72,11 @@ Actualmente amplío mis conocimientos en Python, Docker, PostgreSQL y arquitectu
 
 Integrarme a un equipo de tecnología donde pueda contribuir en la implementación, mantenimiento y mejora de sistemas, automatización de procesos y calidad de datos, mientras continúo desarrollando mis competencias técnicas.
 
+A1 — básico inicial
 
+A2 — básico con conversación sencilla
 
+Inglés básico, sin nivel certificado
 
 ## RFC : Regimen ...
 
