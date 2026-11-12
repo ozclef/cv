@@ -155,6 +155,7 @@ aside {
 }
 
 .perfil {
+    top: 100px;
     background: var(--card);
     border-radius: 12px;
     overflow: hidden;
@@ -176,8 +177,8 @@ Screenshot_7-4-2026_64229_github.com.jpeg
     position: absolute;
     bottom: -40px;
     left: 24px;
-    width: 300px;
-    height: 300px;
+    width: 270px;
+    height: 270px;
     border-radius: 50%;
     border: 4px solid var(--card);
     /*background: url('https://i.imgur.com/1X1X1X1.jpg') center/cover;*/
