@@ -5,6 +5,10 @@
 @page {
     size: A4 portrait;
     margin: 12mm;
+    p,
+    a {
+        font-size: 9.5pt;
+    }
 }
 
 @media print {
@@ -135,6 +139,7 @@
     h3 {
         font-size: 10pt;
     }
+    a,
     p,
     li {
         font-size: 9.5pt;
