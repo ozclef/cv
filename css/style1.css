@@ -1,0 +1,248 @@
+
+/* ========================================
+   IMPRESIÓN — CURRÍCULUM VITAE
+======================================== */
+
+@page {
+    size: A4 portrait;
+    margin: 10mm;
+}
+
+@media print {
+
+    /* Base */
+    *,
+    *::before,
+    *::after {
+        box-sizing: border-box;
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+    }
+
+    html,
+    body {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        background: #fff !important;
+        color: #222 !important;
+        font-family: Arial, sans-serif;
+        font-size: 8.5pt;
+        line-height: 1.3;
+    }
+
+    /* Tipografía general */
+    p,
+    li,
+    a,
+    span {
+        font-size: 8.5pt;
+        line-height: 1.3;
+    }
+
+    p {
+        margin: 0 0 4pt;
+    }
+
+    a {
+        color: #164b75 !important;
+        text-decoration: none;
+        overflow-wrap: anywhere;
+    }
+
+    li {
+        margin-bottom: 2pt;
+    }
+
+    h1 {
+        font-size: 16pt;
+        margin: 0 0 5pt;
+    }
+
+    h2 {
+        font-size: 12pt;
+        margin: 0 0 5pt;
+    }
+
+    h3 {
+        font-size: 10pt;
+        margin: 0 0 4pt;
+    }
+
+    /* Header */
+    header {
+        position: static !important;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0 0 8pt;
+        margin-bottom: 10pt;
+        background: #fff !important;
+        color: #222 !important;
+        box-shadow: none !important;
+        border: 0;
+        border-bottom: 1px solid #bbb;
+    }
+
+    header h1,
+    header h2,
+    header h3 {
+        color: #222 !important;
+    }
+
+    /* Ocultar controles */
+    header nav,
+    nav,
+    button,
+    .btn,
+    .nav-actions,
+    iframe,
+    .no-print {
+        display: none !important;
+    }
+
+    /* Layout: dos columnas */
+    .layout {
+        display: grid !important;
+        grid-template-columns: 30% minmax(0, 1fr);
+        grid-auto-flow: row;
+        align-items: start;
+        gap: 8pt;
+        padding: 0;
+        margin: 0;
+    }
+
+    /* Main a la derecha */
+    .layout > main {
+        grid-column: 2;
+        grid-row: 1 / span 2;
+        width: 100%;
+        min-width: 0;
+        margin: 0;
+        padding: 0;
+        position: static;
+        box-shadow: none;
+        border: 0;
+    }
+
+    /* Asides a la izquierda */
+    .layout > aside {
+        grid-column: 1;
+        display: block !important;
+        width: 100%;
+        min-width: 0;
+        margin: 0 0 6pt;
+        padding: 7pt;
+        background: #fff !important;
+        color: #222 !important;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        box-shadow: none;
+    }
+
+    /* Perfil */
+    .perfil {
+        background: #fff !important;
+        color: #222 !important;
+        border: 0;
+        box-shadow: none;
+    }
+
+    .portada {
+        height: auto !important;
+        min-height: 0 !important;
+        padding: 0;
+        margin: 0;
+        background: none !important;
+    }
+
+    .foto-perfil {
+        position: static !important;
+        display: block !important;
+        width: 85px;
+        height: 85px;
+        margin: 0 0 7pt;
+        border-radius: 50%;
+        border: 1px solid #ccc;
+        box-shadow: none;
+        background-size: cover;
+        background-position: center;
+    }
+
+    .info {
+        padding: 5pt 0;
+    }
+
+    .info h2 {
+        font-size: 12pt;
+    }
+
+    .info p {
+        font-size: 8pt;
+        color: #444 !important;
+    }
+
+    /* Tarjetas y datos */
+    .card,
+    .dato {
+        padding: 7pt;
+        margin-bottom: 6pt;
+        background: #fff !important;
+        color: #222 !important;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        box-shadow: none !important;
+        break-inside: avoid;
+        page-break-inside: avoid;
+    }
+
+    .card h2,
+    .card h3,
+    .dato h2,
+    .dato h3 {
+        color: #222 !important;
+    }
+
+    /* Elementos auxiliares */
+    .datos {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 5pt;
+    }
+
+    .skills,
+    .projects {
+        gap: 4pt;
+    }
+
+    .skill,
+    .project-badge {
+        font-size: 8pt;
+        padding: 3pt 5pt;
+        border: 1px solid #ddd;
+        background: #f5f5f5 !important;
+        color: #222 !important;
+    }
+
+    .section-title {
+        font-size: 12pt;
+        margin: 8pt 0 5pt;
+    }
+
+    img {
+        max-width: 100%;
+    }
+
+    /* Footer */
+    footer {
+        display: block !important;
+        position: static !important;
+        margin-top: 10pt;
+        padding-top: 6pt;
+        border-top: 1px solid #bbb;
+        text-align: center;
+        background: #fff !important;
+        color: #555 !important;
+        font-size: 8pt;
+    }
+}
