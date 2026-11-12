@@ -36,6 +36,7 @@
     span {
         font-size: 8.5pt;
         line-height: 1.0;
+        color: #222 !important;
     }
     p {
         margin: 0 0 4pt;
@@ -119,7 +120,7 @@
         min-width: 220;
         margin: 0 0 6pt;
         padding: 7pt;
-        background: #ffecec00 !important;
+        background: #d0c5c500 !important;
         color: #222 !important;
         border: 1px solid #dddddd00;
         border-radius: 4px;
