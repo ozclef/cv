@@ -138,6 +138,11 @@ aside {
     border-image: linear-gradient( 90deg, var(--accent1), var(--accent2), var(--accent3)) 1;
 }
 
+aside a,
+aside p {
+    font-size: 10pt;
+}
+
 .btn {
     background: var(--accent);
     border-radius: var(--radius);
