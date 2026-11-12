@@ -1,23 +1,101 @@
 /* Vista normal */
+
 .cv-page {
-  display: block;
+    display: block;
 }
 
+
 /* Impresión */
+
 @media print {
-  .no-print {
-    display: none !important;
-  }
+    .no-print {
+        display: none !important;
+    }
+    .cv-page {
+        page-break-after: always;
+    }
+    .project-post {
+        break-inside: avoid;
+    }
+    .portfolio-print {
+        display: block;
+    }
+}
 
-  .cv-page {
-    page-break-after: always;
-  }
 
-  .project-post {
-    break-inside: avoid;
-  }
+/* ========================================
+   LAYOUT — WEB
+======================================== */
 
-  .portfolio-print {
-    display: block;
-  }
+.layout {
+    display: grid;
+    /* ASIDE IZQUIERDO | MAIN | ASIDE DERECHO */
+    grid-template-columns: minmax(220px, 350px) minmax(0, 1fr) minmax(180px, 220px);
+    gap: 18px;
+    padding: 50px 24px 24px;
+    align-items: start;
+}
+
+.layout>aside,
+.layout>main {
+    min-width: 0;
+}
+
+
+/* MAIN */
+
+.layout>main {
+    width: 100%;
+}
+
+
+/* RESPONSIVE */
+
+@media (max-width: 968px) {
+    .layout {
+        grid-template-columns: 1fr;
+        padding: 50px 16px 16px;
+    }
+    .layout>aside,
+    .layout>main {
+        grid-column: 1;
+        width: 100%;
+    }
+}
+
+
+/* ========================================
+   LAYOUT — PRINT
+======================================== */
+
+@media print {
+    .layout {
+        display: grid !important;
+        /* ASIDES 30% | MAIN 70% */
+        grid-template-columns: 30% minmax(0, 1fr);
+        grid-template-rows: auto auto;
+        grid-auto-flow: row;
+        gap: 8pt;
+        padding: 0;
+        margin: 0;
+        align-items: start;
+    }
+    /* MAIN: columna derecha */
+    .layout>main {
+        grid-column: 2;
+        grid-row: 1 / span 2;
+        width: 100%;
+        min-width: 0;
+        margin: 0;
+        padding: 0;
+    }
+    /* AMBOS ASIDES: columna izquierda */
+    .layout>aside {
+        grid-column: 1;
+        display: block !important;
+        width: 100%;
+        min-width: 0;
+        margin: 0;
+        padding: 7pt;
+    }
 }
