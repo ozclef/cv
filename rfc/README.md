@@ -8,6 +8,7 @@ https://www.sat.gob.mx/portal/private/mi-espacio
 
 <img width="1480" height="791" alt="image" src="https://github.com/user-attachments/assets/c571eaee-8f59-4297-a38a-6b8a2655a625" />
 
+<img width="1182" height="584" alt="image" src="https://github.com/user-attachments/assets/67623588-8506-48ba-9619-e716c160be9e" />
 
 
 ----
@@ -15,6 +16,22 @@ https://www.sat.gob.mx/portal/private/mi-espacio
 
 ##  solicitar regimen de sueldos y salarios e ingresos asimilados a salarios
 
+
+
+
+Régimen Simplificado de Confianza.
+A continuación, elige la opción de tu interés:
+Régimen de Incorporación Fiscal.
+¿Qué quieres saber sobre Régimen de Incorporación Fiscal.?
+solicitar regimen de sueldos y salarios e ingresos asimilados a salarios
+Estimado contribuyente, ¿su consulta se refiere a alguna de estas preguntas?
+¿Por qué me aparece el mensaje “Movimiento no disponible para sus regímenes asignados, Régimen de Sueldos y Salarios e Ingresos Asimilados a Salarios, No se puede realizar este tipo de movimiento debido a la incompatibilidad entre sus regímenes asignados y los inhabilitados para este trámite”?
+Si estás presentando tu Aviso de actualización de actividades económicas y obligaciones fiscales y te aparece este mensaje, verifica en tu constancia de situación fiscal que aparezca tu domicilio actualizado, si actualmente tienes registrado un domicilio diferente, deberás presentar el aviso de cambio de domicilio en el RFC, una vez realizado este proceso podrás ingresar a actualizar tu régimen fiscal o actividad económica.
+¿Deseas conocer el fundamento legal?
+Sí
+Artículo 27, inciso B, fracciones II y III del Código Fiscal de la Federación vigente y Artículo 30, fracción III del Reglamento del Código Fiscal de la Federación vigente.
+¿La información proporcionada resolvió tu duda?
+SiNo
 
 
 https://www.sat.gob.mx/tramites
