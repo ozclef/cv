@@ -42,7 +42,7 @@
         margin: 0 0 4pt;
     }
     a {
-        color: #14212b !important;
+        color: #000000 !important;
         text-decoration: none;
         overflow-wrap: anywhere;
     }
@@ -111,6 +111,8 @@
         position: static;
         box-shadow: none;
         border: 0;
+        background: #c9c1c1a6 !important;
+        color: #000000 !important;
     }
     /* Asides a la izquierda */
     .layout>aside {
@@ -120,8 +122,8 @@
         min-width: 220;
         margin: 0 0 6pt;
         padding: 7pt;
-        background: #d0c5c500 !important;
-        color: #222 !important;
+        background: #c9c1c1a6 !important;
+        color: #000000 !important;
         border: 1px solid #dddddd00;
         border-radius: 4px;
         box-shadow: none;
@@ -196,7 +198,7 @@
         font-size: 8pt;
         padding: 3pt 5pt;
         border: 1px solid #68badb48;
-        background: #a2dae007 !important;
+        background: #bed5d744 !important;
         color: #222 !important;
     }
     .section-title {
@@ -214,7 +216,7 @@
         padding-top: 6pt;
         border-top: 1px solid #bbb;
         text-align: center;
-        background: #3897a628 !important;
+        background: #b2c1c328 !important;
         color: #000000 !important;
         font-size: 8pt;
     }
