@@ -43,3 +43,5 @@ https://www.sat.gob.mx/tramites
 
 
 <img width="1488" height="804" alt="Captura de pantalla_12-11-2026_54013_www sat gob mx" src="https://github.com/user-attachments/assets/80fc1071-3122-43b5-9574-8a055d5fab05" />
+
+<img width="278" height="486" alt="image" src="https://github.com/user-attachments/assets/0c550c95-fbc1-4711-99c9-cbf2356b091f" />
