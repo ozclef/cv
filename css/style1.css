@@ -119,9 +119,9 @@
         min-width: 220;
         margin: 0 0 6pt;
         padding: 7pt;
-        background: #49393925 !important;
+        background: #ffecec00 !important;
         color: #222 !important;
-        border: 1px solid #ddd;
+        border: 1px solid #dddddd00;
         border-radius: 4px;
         box-shadow: none;
     }
@@ -166,7 +166,7 @@
     .dato {
         padding: 7pt;
         margin-bottom: 6pt;
-        background: #fff !important;
+        background: #ffffff2f !important;
         color: #222 !important;
         border: 1px solid #44268b56;
         border-radius: 4px;
@@ -195,7 +195,7 @@
         font-size: 8pt;
         padding: 3pt 5pt;
         border: 1px solid #68badb48;
-        background: #f5f5f5 !important;
+        background: #a2dae007 !important;
         color: #222 !important;
     }
     .section-title {
@@ -213,7 +213,7 @@
         padding-top: 6pt;
         border-top: 1px solid #bbb;
         text-align: center;
-        background: #fff !important;
+        background: #3897a628 !important;
         color: #000000 !important;
         font-size: 8pt;
     }
