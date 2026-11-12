@@ -92,7 +92,7 @@ nav a {
     display:flex;
     align-items:center;    justify-content:center;    
 	*/
-    adding: 10px 18px;
+    padding: 10px 18px;
     color: var(--text);
     text-decoration: none;
     letter-spacing: .4px;
