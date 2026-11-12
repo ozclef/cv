@@ -29,12 +29,13 @@
         line-height: 1.0;
     }
     /* Tipografía general */
+    aside a,
     p,
     li,
     a,
     span {
         font-size: 8.5pt;
-        line-height: 1.3;
+        line-height: 1.0;
     }
     p {
         margin: 0 0 4pt;
