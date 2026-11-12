@@ -1,7 +1,6 @@
 /* --- Variables (puedes convertir a SCSS fácilmente) --- * /
 $bg: #0f172a; $card:#0b1220; $accent:#3b82f6; $muted:#94a3b8; $glass: rgba(255,255,255,0.04)
 /*
-
 */
 
 :root {
@@ -116,7 +115,7 @@ nav a:hover {
 
 .layout {
     display: grid;
-    grid-template-columns: 320px 1fr 220px;
+    grid-template-columns: 220px 1fr 220px;
     gap: 18px;
     padding: 50px 24px 24px;
 }
@@ -180,7 +179,7 @@ Screenshot_7-4-2026_64229_github.com.jpeg
     border-radius: 50%;
     border: 4px solid var(--card);
     /*background: url('https://i.imgur.com/1X1X1X1.jpg') center/cover;*/
-    background: url('img/Retrato profesional para currículum.png') center/cover;
+    background: url('https://ozclef.github.io/cv/Retrato profesional para currículum.png') center/cover;
     box-shadow: 0 0 12px rgba(255, 255, 255, 0.05);
     border-bottom: 2px solid transparent;
     border-image: linear-gradient( 90deg, var(--accent1), var(--accent2), var(--accent3)) 1;
