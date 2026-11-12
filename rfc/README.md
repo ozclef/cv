@@ -45,3 +45,22 @@ https://www.sat.gob.mx/tramites
 <img width="1488" height="804" alt="Captura de pantalla_12-11-2026_54013_www sat gob mx" src="https://github.com/user-attachments/assets/80fc1071-3122-43b5-9574-8a055d5fab05" />
 
 <img width="278" height="486" alt="image" src="https://github.com/user-attachments/assets/0c550c95-fbc1-4711-99c9-cbf2356b091f" />
+
+
+
+
+----
+
+
+
+# MI PREFERENCIA :   STRIPE  ISR
+
+
+
+https://docs.stripe.com/
+
+
+<img width="1339" height="642" alt="image" src="https://github.com/user-attachments/assets/9e5592a6-6461-473a-a7d0-0efe53ca77ba" />
+
+
+<img width="1467" height="680" alt="image" src="https://github.com/user-attachments/assets/15214dc8-93d6-4f4f-afb8-6dfe05c2361d" />
