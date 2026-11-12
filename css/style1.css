@@ -116,7 +116,7 @@
         grid-column: 1;
         display: block !important;
         width: 100%;
-        min-width: 0;
+        min-width: 220;
         margin: 0 0 6pt;
         padding: 7pt;
         background: #49393925 !important;
