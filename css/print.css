@@ -1,5 +1,9 @@
-
-
+/*  print.css
+    Estilos para impresión de la página web.
+    Se aplican cuando se imprime o se genera un PDF.
+    Se ocultan elementos innecesarios y se ajusta el diseño para que sea legible en papel.
+    Autor: Oscar Cruz Díaz
+    Fecha: 2024-06-15       
 /*	body {
 			background-color: var(--bg);
 			color: var(--text);
@@ -39,135 +43,130 @@ url('https://github.com/ozclef/oscarcruzdiaz.vercel.app/blob/f076bc97ce4c9fb94f5
 				 }
  * /
 */
-  .card {
+
+.card {
     background: var(--card);
     border-radius: var(--radius);
     padding: 20px;
     box-shadow: var(--shadow);
     transition: transform 0.2s;
-  }
+}
 
-  .card:hover {
+.card:hover {
     transform: translateY(-5px);
-  }
+}
 
-  .card h3 {
+.card h3 {
     margin-top: 0;
-  }
+}
 
-  .section-title {
+.section-title {
     text-align: center;
     margin-bottom: 30px;
     font-size: 2rem;
     color: var(--accent2, #fbbf24);
-  }
-  .skills, .projects {
+}
+
+.skills,
+.projects {
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
-  }
+}
 
-  .skill, .project-badge,
-		 .skill:hover ,  .project-badge:hover {
-    background: var(--accent);
+.skill,
+.project-badge,
+.skill:hover,
+.project-badge:hover {
+    background: #24b3fb4f;
     color: #fff;
     padding: 6px 12px;
     border-radius: 8px;
     font-size: 0.9rem;
-  }
+}
 
-  a {
+a {
     color: var(--accent);
     text-decoration: none;
-  }
+}
 
-  a:hover {
+a:hover {
     text-decoration: underline;
-  }
+}
 
-
-	@media print {
-
-  body {
-    background: white !important;
-    color: black !important;
-    padding: 0;
-    margin: 0;
-    font-size: 11px;
-  }
-
-  header, footer {
-    text-align: center;
-  }
-
-  .container {
-    display: block;
-  }
-
-  .card {
-    box-shadow: 1 1 1 ;
-    border: 1px solid #ccc;
-    page-break-inside: avoid;
-    margin-bottom: 10px;
-  }
-
-  .section-title {
-    font-size: 16px;
-    margin: 10px 0;
-  }
-
-  h1 {
-    font-size: 18px;
-  }
-
-  h2 {
-    font-size: 14px;
-  }
-
-  p {
-    font-size: 11px;
-  }
-
-  .skills, .projects {
-    gap: 5px;
-  }
-
-  .skill, .project-badge {
-    font-size: 9px;
-    padding: 3px 6px;
-  }
-
-  /* ❌ ocultar cosas innecesarias */
-	  .portada,    .foto-perfil, 	 .container,
-  iframe, nav, button {
-    display: none !important;
-  }
-
-
-  /* ❌ OCULTAR layout web */
-  aside,
-  nav,
-  header nav,
-  .layout > aside,
-  button,
-  iframe {
-    display: none !important;
-  }
-
-  /* ✅ SOLO mostrar main */
-  body {
-    background: white !important;
-    color: black !important;
-  }
-
-  main {
-    width: 100%;
-    margin: 0;
-    padding: 0;
-  }
-		
-  @page {
-    size: A4;
-    margin: 10mm;
-  }
+@media print {
+    body {
+        background: white !important;
+        color: black !important;
+        padding: 0;
+        margin: 0;
+        font-size: 11px;
+    }
+    header,
+    footer {
+        text-align: center;
+    }
+    .container {
+        display: block;
+    }
+    .card {
+        box-shadow: 1 1 1;
+        border: 1px solid #ccc;
+        page-break-inside: avoid;
+        margin-bottom: 10px;
+    }
+    .section-title {
+        font-size: 16px;
+        margin: 10px 0;
+    }
+    h1 {
+        font-size: 18px;
+    }
+    h2 {
+        font-size: 14px;
+    }
+    p {
+        font-size: 11px;
+    }
+    .skills,
+    .projects {
+        gap: 5px;
+    }
+    .skill,
+    .project-badge {
+        font-size: 9px;
+        padding: 3px 6px;
+    }
+    /* ❌ ocultar cosas innecesarias */
+    .portada,
+    .foto-perfil,
+    .container,
+    iframe,
+    nav,
+    button {
+        display: none !important;
+    }
+    /* ❌ OCULTAR layout web */
+    aside,
+    nav,
+    header nav,
+    .layout>aside,
+    button,
+    iframe {
+        display: none !important;
+    }
+    /* ✅ SOLO mostrar main */
+    body {
+        background: white !important;
+        color: black !important;
+    }
+    main {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+    @page {
+        size: A4;
+        margin: 10mm;
+    }
 }
