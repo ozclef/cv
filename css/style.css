@@ -78,13 +78,13 @@ p,
 a,
 nav a {
     font-weight: 500;
-    font-size: 8px;
+    font-size: 10px;
     margin-left: 8px;
     margin-left: 9px;
     text-decoration: none;
     color: white;
     align-items: center;
-    gap: 12px;
+    gap: 19px;
     flex-wrap: wrap;
     /*
 }
@@ -103,7 +103,8 @@ nav a {
     border: 1px solid rgba(255, 255, 255, .10);
     border-radius: 12px;
     box-shadow: 0 4px 20px rgba(0, 0, 0, .25), inset 0 1px rgba(255, 255, 255, .08);
-    transition: transform .25s, background .25s, border-color .25s, box-shadow .25s, color .25s;
+    transition: transform .25s, /*background .25s,*/
+    border-color .25s, box-shadow .25s, color .25s;
 }
 
 nav a:hover {
