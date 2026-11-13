@@ -86,6 +86,7 @@ nav a {
     align-items: center;
     gap: 10px;
     flex-wrap: wrap;
+    max-width: 90%;
     /*
 }
 
