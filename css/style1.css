@@ -145,10 +145,10 @@
     .foto-perfil {
         position: static !important;
         display: block !important;
-        width: 85px;
-        height: 85px;
+        width: 285px;
+        height: 285px;
         margin: 0 0 7pt;
-        border-radius: 50%;
+        border-radius: 100%;
         border: 1px solid #537ca457;
         box-shadow: none;
         background-size: cover;

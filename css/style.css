@@ -77,14 +77,14 @@ header h3 {
 p,
 a,
 nav a {
-    font-weight: 500;
+    font-weight: 300;
     font-size: 14px;
-    margin-left: 12px;
-    margin-left: 11px;
+    margin-left: 1px;
+    margin-left: 1px;
     text-decoration: none;
     color: white;
     align-items: center;
-    gap: 19px;
+    gap: 10px;
     flex-wrap: wrap;
     /*
 }
@@ -160,7 +160,7 @@ aside p {
 }
 
 .perfil {
-    top: 100px;
+    /*top: 100px;*/
     background: var(--card);
     border-radius: 12px;
     overflow: hidden;
